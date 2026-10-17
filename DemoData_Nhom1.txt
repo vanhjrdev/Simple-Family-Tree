@@ -1,0 +1,372 @@
+@
+Nguyen Van Chi
+Con trai
+1900
+1975
+1
+Tran Thi Hoa
+@
+Nguyen Van Oanh
+Con trai
+1928
+2005
+1
+Pham Thi Nam
+@
+Nguyen Van Khanh
+Con trai
+1953
+0
+1
+Dang Thi Giang
+@
+Nguyen Thi An
+Con gai
+1984
+0
+1
+Hoang Huu Linh
+@
+Hoang Duc Chi
+Con trai
+2013
+0
+0
+#
+@
+Hoang Quang Oanh
+Con trai
+2015
+0
+0
+#
+@
+Hoang Thi Giang
+Con gai
+2018
+0
+0
+#
+@
+Hoang Thanh Nam
+Con trai
+2021
+0
+0
+#
+#
+@
+Nguyen Thi Dung
+Con gai
+1986
+0
+1
+Bui Ngoc Phong
+@
+Bui Van Em
+Con trai
+2012
+0
+0
+#
+#
+#
+@
+Nguyen Van An
+Con trai
+1955
+0
+1
+Le Thi Khanh
+@
+Nguyen Van Em
+Con trai
+1982
+0
+1
+Do Thi Giang
+@
+Nguyen Thi Giang
+Con gai
+2008
+0
+0
+#
+#
+@
+Nguyen Duc Em
+Con trai
+1985
+0
+1
+Ngo Thi Dung
+@
+Nguyen Duc Oanh
+Con trai
+2014
+0
+0
+#
+#
+@
+Nguyen Van Hoa
+Con trai
+1988
+0
+1
+Vo Thi Mai
+@
+Nguyen Duc Chi
+Con trai
+2015
+0
+0
+#
+@
+Nguyen Thi Hoa
+Con gai
+2017
+0
+0
+#
+@
+Nguyen Quang Phong
+Con trai
+2020
+0
+0
+#
+#
+#
+@
+Nguyen Van Dung
+Con trai
+1958
+0
+1
+Hoang Thi Linh
+@
+Nguyen Thi Linh
+Con gai
+1983
+0
+1
+Tran Duc Giang
+@
+Tran Minh Binh
+Con trai
+2014
+0
+0
+#
+@
+Tran Thi Khanh
+Con gai
+2017
+0
+0
+#
+#
+@
+Nguyen Van Binh
+Con trai
+1987
+0
+1
+Le Thi Huong
+@
+Nguyen Minh Dung
+Con trai
+2016
+0
+0
+#
+@
+Nguyen Thi Em
+Con gai
+2019
+0
+0
+#
+#
+#
+#
+@
+Nguyen Quang Nam
+Con trai
+1932
+2010
+1
+Ngo Thi Lan
+@
+Nguyen Van Long
+Con trai
+1958
+0
+1
+Hoang Thi Dung
+@
+Nguyen Duc Cuong
+Con trai
+1985
+0
+1
+Pham Thi Binh
+@
+Nguyen Thi Oanh
+Con gai
+2014
+0
+0
+#
+@
+Nguyen Duc Linh
+Con trai
+2017
+0
+0
+#
+@
+Nguyen Thi Chi
+Con gai
+2020
+0
+0
+#
+@
+Nguyen Huu Chi
+Con trai
+2022
+0
+0
+#
+#
+@
+Nguyen Thi Phong
+Con gai
+1988
+0
+1
+Dang Thanh Giang
+@
+Dang Minh Giang
+Con trai
+2015
+0
+0
+#
+@
+Dang Thi Hoa
+Con gai
+2018
+0
+0
+#
+@
+Dang Thanh Phong
+Con trai
+2020
+0
+0
+#
+@
+Dang Huu Phong
+Con trai
+2023
+0
+0
+#
+#
+@
+Nguyen Van Giang
+Con trai
+1991
+0
+1
+Tran Thi An
+@
+Nguyen Quang Giang
+Con trai
+2019
+0
+0
+#
+#
+#
+@
+Nguyen Huu Chi
+Con trai
+1960
+0
+1
+Le Thi Phong
+@
+Nguyen Duc Thang
+Con trai
+1986
+0
+1
+Bui Thi Mai
+@
+Nguyen Van Bach
+Con trai
+2015
+0
+0
+#
+@
+Nguyen Ngoc Chi
+Con trai
+2018
+0
+0
+#
+#
+@
+Nguyen Van Thao
+Con trai
+1989
+0
+1
+Do Thi Hanh
+@
+Nguyen Huu Hoa
+Con trai
+2019
+0
+0
+#
+#
+@
+Nguyen Thi Huong
+Con gai
+1993
+0
+1
+Tran Van Tuan
+@
+Tran Thi Hoa
+Con gai
+2018
+0
+0
+#
+@
+Tran Duc Chi
+Con trai
+2020
+0
+0
+#
+@
+Tran Thi Dung
+Con gai
+2022
+0
+0
+#
+#
+#
+#
+#
+#

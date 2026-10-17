@@ -1,0 +1,7528 @@
+@
+Cu To
+To Tien
+1000
+1080
+1
+Vo Cu To
+@
+Le Minh Anh 1
+Con gai
+1031
+1098
+1
+Vo/Chong 2
+@
+Pham Duc Anh 3
+Con gai
+1056
+0
+1
+Vo/Chong 4
+@
+Vu Minh Trang 5
+Con gai
+1089
+0
+0
+@
+Bui Thu Trang 8
+Con gai
+1109
+1187
+1
+Vo/Chong 9
+@
+Tran Huu Trang 18
+Con gai
+1133
+1207
+0
+@
+Nguyen Duc Tuan 42
+Con trai
+1156
+1235
+0
+@
+Hoang Xuan Hoa 125
+Con gai
+1176
+1235
+0
+@
+Hoang Van Kien 357
+Con gai
+1206
+1266
+0
+@
+Tran Ngoc Thanh 1013
+Con trai
+1239
+1321
+0
+#
+@
+Bui Duc Anh 1014
+Con trai
+1229
+1297
+1
+Vo/Chong 1015
+#
+#
+@
+Bui Xuan Trang 358
+Con trai
+1210
+1260
+0
+@
+Vu Xuan Trang 1016
+Con trai
+1237
+1306
+1
+Vo/Chong 1017
+#
+@
+Ngo Huu Tuan 1018
+Con gai
+1239
+1289
+0
+#
+@
+Vu Ngoc Anh 1019
+Con trai
+1243
+1296
+1
+Vo/Chong 1020
+#
+#
+@
+Pham Minh Hoa 359
+Con trai
+1208
+0
+1
+Vo/Chong 360
+@
+Bui Quang Trang 1021
+Con trai
+1229
+1291
+0
+#
+@
+Hoang Van Long 1022
+Con gai
+1238
+1288
+1
+Vo/Chong 1023
+#
+#
+@
+Tran Ngoc Trang 361
+Con gai
+1205
+1290
+1
+Vo/Chong 362
+@
+Nguyen Thi Long 1024
+Con gai
+1230
+1302
+0
+#
+@
+Le Thi Trang 1025
+Con trai
+1235
+1314
+0
+#
+@
+Tran Duc Thanh 1026
+Con trai
+1231
+1302
+1
+Vo/Chong 1027
+#
+@
+Hoang Thu Tuan 1028
+Con trai
+1229
+1283
+0
+#
+@
+Bui Quang Kien 1029
+Con trai
+1228
+1284
+1
+Vo/Chong 1030
+#
+#
+#
+@
+Pham Van Long 126
+Con gai
+1180
+0
+1
+Vo/Chong 127
+@
+Nguyen Ngoc Phuong 363
+Con gai
+1202
+1254
+1
+Vo/Chong 364
+@
+Ngo Quang Long 1031
+Con gai
+1227
+1304
+1
+Vo/Chong 1032
+#
+@
+Le Ngoc Linh 1033
+Con gai
+1230
+0
+0
+#
+#
+@
+Ngo Xuan Hoa 365
+Con gai
+1208
+1267
+1
+Vo/Chong 366
+@
+Tran Thi Kien 1034
+Con gai
+1240
+1316
+1
+Vo/Chong 1035
+#
+@
+Tran Dinh Hoa 1036
+Con trai
+1241
+1326
+0
+#
+#
+@
+Ly Dinh Thanh 367
+Con gai
+1202
+1285
+1
+Vo/Chong 368
+@
+Nguyen Thu Hung 1037
+Con gai
+1231
+0
+0
+#
+@
+Vo Dinh Kien 1038
+Con gai
+1232
+0
+1
+Vo/Chong 1039
+#
+@
+Vu Ngoc Tuan 1040
+Con trai
+1224
+0
+1
+Vo/Chong 1041
+#
+@
+Hoang Van Hung 1042
+Con gai
+1235
+1316
+1
+Vo/Chong 1043
+#
+#
+#
+@
+Ngo Duc Kien 128
+Con gai
+1190
+1267
+0
+@
+Bui Quang Tuan 369
+Con gai
+1215
+0
+0
+@
+Vu Van Hung 1044
+Con trai
+1242
+1321
+0
+#
+@
+Vo Xuan Anh 1045
+Con gai
+1247
+0
+1
+Vo/Chong 1046
+#
+@
+Pham Minh Thanh 1047
+Con trai
+1247
+1301
+1
+Vo/Chong 1048
+#
+@
+Hoang Huu Trang 1049
+Con gai
+1247
+1302
+1
+Vo/Chong 1050
+#
+@
+Ly Van Long 1051
+Con gai
+1237
+1318
+1
+Vo/Chong 1052
+#
+#
+#
+#
+@
+Ngo Thi Kien 43
+Con trai
+1163
+0
+0
+@
+Nguyen Huu Kien 129
+Con trai
+1195
+1253
+1
+Vo/Chong 130
+@
+Bui Thi Linh 370
+Con gai
+1227
+1295
+1
+Vo/Chong 371
+@
+Nguyen Ngoc Tuan 1053
+Con trai
+1256
+1333
+0
+#
+@
+Vo Duc Linh 1054
+Con gai
+1256
+1321
+1
+Vo/Chong 1055
+#
+#
+@
+Tran Thu Long 372
+Con trai
+1228
+1293
+0
+@
+Vo Thu Anh 1056
+Con gai
+1254
+0
+0
+#
+@
+Ly Duc Thanh 1057
+Con gai
+1256
+0
+1
+Vo/Chong 1058
+#
+#
+@
+Hoang Van Linh 373
+Con gai
+1229
+0
+0
+@
+Ly Dinh Kien 1059
+Con trai
+1261
+1345
+1
+Vo/Chong 1060
+#
+#
+#
+@
+Hoang Huu Hoa 131
+Con gai
+1187
+0
+1
+Vo/Chong 132
+@
+Nguyen Minh Phuong 374
+Con gai
+1217
+1286
+1
+Vo/Chong 375
+@
+Nguyen Thi Thanh 1061
+Con trai
+1245
+0
+0
+#
+@
+Hoang Quang Phuong 1062
+Con gai
+1243
+1317
+0
+#
+@
+Le Xuan Tuan 1063
+Con gai
+1240
+1327
+1
+Vo/Chong 1064
+#
+@
+Hoang Xuan Kien 1065
+Con trai
+1239
+1302
+1
+Vo/Chong 1066
+#
+#
+@
+Ngo Quang Kien 376
+Con gai
+1219
+1275
+1
+Vo/Chong 377
+@
+Le Duc Tuan 1067
+Con trai
+1241
+0
+1
+Vo/Chong 1068
+#
+#
+@
+Vo Xuan Long 378
+Con gai
+1207
+1265
+1
+Vo/Chong 379
+@
+Ly Van Kien 1069
+Con trai
+1238
+0
+1
+Vo/Chong 1070
+#
+@
+Tran Duc Long 1071
+Con gai
+1233
+1289
+0
+#
+@
+Vo Van Thanh 1072
+Con trai
+1240
+0
+1
+Vo/Chong 1073
+#
+@
+Tran Thu Kien 1074
+Con trai
+1232
+1316
+1
+Vo/Chong 1075
+#
+#
+#
+@
+Pham Xuan Hung 133
+Con trai
+1195
+0
+1
+Vo/Chong 134
+@
+Vu Minh Long 380
+Con gai
+1226
+0
+0
+@
+Vu Quang Tuan 1076
+Con trai
+1253
+1327
+1
+Vo/Chong 1077
+#
+@
+Vu Quang Anh 1078
+Con trai
+1252
+1319
+0
+#
+@
+Tran Ngoc Tuan 1079
+Con gai
+1250
+1330
+0
+#
+#
+@
+Vu Quang Thanh 381
+Con trai
+1226
+0
+0
+@
+Ngo Minh Trang 1080
+Con trai
+1250
+1314
+0
+#
+#
+@
+Bui Xuan Tuan 382
+Con gai
+1219
+0
+1
+Vo/Chong 383
+@
+Le Duc Anh 1081
+Con trai
+1244
+1296
+1
+Vo/Chong 1082
+#
+#
+@
+Bui Thu Thanh 384
+Con trai
+1227
+1309
+1
+Vo/Chong 385
+@
+Hoang Thu Hoa 1083
+Con gai
+1248
+0
+0
+#
+@
+Hoang Van Phuong 1084
+Con gai
+1261
+1326
+1
+Vo/Chong 1085
+#
+@
+Ly Xuan Hoa 1086
+Con gai
+1249
+1332
+0
+#
+#
+#
+#
+#
+#
+@
+Hoang Van Anh 10
+Con gai
+1116
+0
+1
+Vo/Chong 11
+@
+Vo Quang Anh 19
+Con gai
+1138
+1209
+0
+@
+Ly Minh Hoa 44
+Con gai
+1163
+1251
+0
+@
+Tran Huu Hung 135
+Con trai
+1190
+1240
+0
+@
+Tran Huu Hung 386
+Con trai
+1212
+0
+0
+@
+Pham Van Hung 1087
+Con trai
+1233
+0
+1
+Vo/Chong 1088
+#
+#
+#
+@
+Pham Duc Linh 136
+Con trai
+1190
+1264
+1
+Vo/Chong 137
+@
+Tran Minh Long 387
+Con gai
+1216
+1277
+1
+Vo/Chong 388
+@
+Vo Xuan Thanh 1089
+Con trai
+1238
+1313
+1
+Vo/Chong 1090
+#
+@
+Nguyen Thu Anh 1091
+Con gai
+1247
+1336
+1
+Vo/Chong 1092
+#
+@
+Hoang Thi Linh 1093
+Con trai
+1248
+1324
+1
+Vo/Chong 1094
+#
+@
+Pham Ngoc Hung 1095
+Con trai
+1236
+1307
+0
+#
+@
+Vu Xuan Trang 1096
+Con trai
+1244
+1301
+1
+Vo/Chong 1097
+#
+#
+@
+Tran Thu Long 389
+Con gai
+1211
+0
+1
+Vo/Chong 390
+@
+Pham Huu Linh 1098
+Con gai
+1231
+0
+1
+Vo/Chong 1099
+#
+@
+Bui Van Thanh 1100
+Con trai
+1243
+1320
+1
+Vo/Chong 1101
+#
+#
+#
+@
+Pham Quang Phuong 138
+Con trai
+1185
+1253
+0
+@
+Le Ngoc Linh 391
+Con gai
+1212
+1291
+1
+Vo/Chong 392
+@
+Hoang Huu Kien 1102
+Con trai
+1246
+1300
+1
+Vo/Chong 1103
+#
+@
+Ly Duc Hung 1104
+Con gai
+1239
+0
+1
+Vo/Chong 1105
+#
+@
+Bui Ngoc Hung 1106
+Con trai
+1237
+1320
+1
+Vo/Chong 1107
+#
+#
+@
+Bui Huu Hoa 393
+Con gai
+1212
+1297
+1
+Vo/Chong 394
+@
+Vo Van Thanh 1108
+Con gai
+1243
+1324
+0
+#
+@
+Tran Quang Linh 1109
+Con trai
+1235
+1288
+0
+#
+#
+@
+Ly Dinh Anh 395
+Con trai
+1210
+1273
+1
+Vo/Chong 396
+@
+Le Xuan Long 1110
+Con trai
+1237
+1301
+1
+Vo/Chong 1111
+#
+#
+#
+@
+Hoang Thi Tuan 139
+Con trai
+1197
+0
+0
+@
+Ngo Van Thanh 397
+Con trai
+1221
+0
+0
+@
+Hoang Quang Linh 1112
+Con trai
+1248
+1303
+0
+#
+@
+Ngo Van Linh 1113
+Con trai
+1250
+1339
+0
+#
+@
+Vu Ngoc Kien 1114
+Con trai
+1255
+1320
+1
+Vo/Chong 1115
+#
+#
+@
+Vu Van Tuan 398
+Con trai
+1225
+1310
+1
+Vo/Chong 399
+@
+Nguyen Xuan Hoa 1116
+Con gai
+1249
+1306
+0
+#
+@
+Vu Quang Long 1117
+Con gai
+1247
+1313
+1
+Vo/Chong 1118
+#
+@
+Vo Ngoc Kien 1119
+Con gai
+1246
+0
+1
+Vo/Chong 1120
+#
+#
+@
+Ly Van Thanh 400
+Con trai
+1218
+0
+1
+Vo/Chong 401
+@
+Pham Duc Phuong 1121
+Con gai
+1245
+0
+0
+#
+#
+@
+Hoang Van Hung 402
+Con gai
+1228
+1289
+0
+@
+Pham Thu Phuong 1122
+Con trai
+1262
+1321
+0
+#
+@
+Nguyen Duc Phuong 1123
+Con trai
+1257
+1308
+0
+#
+@
+Tran Minh Anh 1124
+Con trai
+1258
+1342
+1
+Vo/Chong 1125
+#
+@
+Ngo Quang Long 1126
+Con gai
+1255
+1317
+1
+Vo/Chong 1127
+#
+@
+Nguyen Huu Thanh 1128
+Con gai
+1258
+1322
+1
+Vo/Chong 1129
+#
+#
+#
+@
+Hoang Quang Hung 140
+Con trai
+1185
+1261
+1
+Vo/Chong 141
+@
+Pham Thi Anh 403
+Con trai
+1213
+1278
+1
+Vo/Chong 404
+@
+Pham Minh Kien 1130
+Con gai
+1245
+0
+1
+Vo/Chong 1131
+#
+@
+Bui Minh Long 1132
+Con trai
+1247
+1314
+1
+Vo/Chong 1133
+#
+@
+Ly Thi Trang 1134
+Con trai
+1237
+1320
+1
+Vo/Chong 1135
+#
+@
+Vu Thu Long 1136
+Con trai
+1242
+1308
+1
+Vo/Chong 1137
+#
+@
+Vo Thi Phuong 1138
+Con trai
+1235
+1322
+0
+#
+#
+@
+Vu Thi Trang 405
+Con trai
+1219
+0
+1
+Vo/Chong 406
+@
+Tran Dinh Long 1139
+Con trai
+1245
+0
+1
+Vo/Chong 1140
+#
+#
+#
+#
+@
+Hoang Van Trang 45
+Con trai
+1168
+1236
+1
+Vo/Chong 46
+@
+Nguyen Dinh Thanh 142
+Con trai
+1197
+0
+0
+@
+Vu Van Kien 407
+Con trai
+1220
+1280
+1
+Vo/Chong 408
+@
+Nguyen Xuan Linh 1141
+Con gai
+1242
+0
+0
+#
+@
+Pham Ngoc Tuan 1142
+Con gai
+1252
+0
+1
+Vo/Chong 1143
+#
+#
+@
+Vo Huu Hung 409
+Con gai
+1219
+0
+1
+Vo/Chong 410
+@
+Vo Van Tuan 1144
+Con gai
+1241
+1307
+1
+Vo/Chong 1145
+#
+@
+Ngo Xuan Linh 1146
+Con trai
+1245
+1334
+0
+#
+@
+Le Thu Tuan 1147
+Con gai
+1251
+1318
+0
+#
+@
+Ly Xuan Tuan 1148
+Con gai
+1248
+0
+1
+Vo/Chong 1149
+#
+@
+Ngo Quang Thanh 1150
+Con gai
+1252
+0
+1
+Vo/Chong 1151
+#
+#
+@
+Vu Thu Long 411
+Con gai
+1221
+1304
+0
+@
+Pham Huu Long 1152
+Con trai
+1246
+0
+1
+Vo/Chong 1153
+#
+@
+Vu Minh Kien 1154
+Con trai
+1254
+0
+1
+Vo/Chong 1155
+#
+@
+Hoang Thu Thanh 1156
+Con trai
+1250
+1318
+0
+#
+@
+Ly Huu Kien 1157
+Con trai
+1243
+1309
+1
+Vo/Chong 1158
+#
+#
+#
+#
+@
+Hoang Dinh Hung 47
+Con trai
+1169
+1255
+1
+Vo/Chong 48
+@
+Pham Huu Hung 143
+Con trai
+1195
+0
+0
+@
+Tran Minh Thanh 412
+Con gai
+1226
+1296
+0
+@
+Tran Thu Hoa 1159
+Con trai
+1247
+1330
+0
+#
+@
+Vo Duc Long 1160
+Con trai
+1252
+1308
+0
+#
+@
+Pham Huu Linh 1161
+Con gai
+1260
+1348
+0
+#
+@
+Vo Duc Trang 1162
+Con gai
+1259
+1311
+1
+Vo/Chong 1163
+#
+#
+#
+@
+Vu Huu Trang 144
+Con gai
+1197
+1264
+0
+@
+Ngo Van Hung 413
+Con gai
+1217
+1304
+1
+Vo/Chong 414
+@
+Ly Dinh Linh 1164
+Con trai
+1250
+1333
+1
+Vo/Chong 1165
+#
+@
+Ly Xuan Hung 1166
+Con trai
+1240
+1303
+0
+#
+@
+Le Minh Tuan 1167
+Con gai
+1243
+1299
+0
+#
+@
+Pham Thu Linh 1168
+Con trai
+1249
+1332
+0
+#
+#
+@
+Ngo Minh Kien 415
+Con trai
+1222
+0
+0
+@
+Bui Xuan Phuong 1169
+Con gai
+1243
+0
+1
+Vo/Chong 1170
+#
+@
+Nguyen Van Thanh 1171
+Con gai
+1255
+1330
+0
+#
+@
+Vu Minh Long 1172
+Con trai
+1242
+0
+0
+#
+@
+Hoang Duc Phuong 1173
+Con gai
+1253
+1325
+0
+#
+#
+@
+Pham Thi Thanh 416
+Con trai
+1222
+1306
+1
+Vo/Chong 417
+@
+Ly Duc Thanh 1174
+Con trai
+1251
+0
+1
+Vo/Chong 1175
+#
+@
+Le Duc Tuan 1176
+Con gai
+1254
+1329
+1
+Vo/Chong 1177
+#
+#
+#
+@
+Le Duc Trang 145
+Con gai
+1200
+1267
+0
+@
+Bui Xuan Hung 418
+Con gai
+1231
+1313
+1
+Vo/Chong 419
+@
+Tran Xuan Linh 1178
+Con trai
+1255
+0
+0
+#
+@
+Nguyen Dinh Phuong 1179
+Con trai
+1260
+1312
+0
+#
+@
+Ngo Thu Hoa 1180
+Con gai
+1251
+1324
+1
+Vo/Chong 1181
+#
+@
+Bui Thi Anh 1182
+Con trai
+1255
+1318
+1
+Vo/Chong 1183
+#
+@
+Ly Xuan Thanh 1184
+Con trai
+1260
+1326
+1
+Vo/Chong 1185
+#
+#
+@
+Le Minh Hoa 420
+Con gai
+1227
+1301
+0
+@
+Ngo Dinh Kien 1186
+Con trai
+1260
+0
+1
+Vo/Chong 1187
+#
+@
+Pham Thi Kien 1188
+Con trai
+1259
+1311
+0
+#
+@
+Ngo Thi Anh 1189
+Con gai
+1255
+1336
+1
+Vo/Chong 1190
+#
+#
+@
+Tran Xuan Linh 421
+Con gai
+1231
+0
+0
+@
+Hoang Huu Hoa 1191
+Con gai
+1252
+1319
+1
+Vo/Chong 1192
+#
+@
+Nguyen Duc Thanh 1193
+Con trai
+1253
+1309
+1
+Vo/Chong 1194
+#
+@
+Tran Dinh Linh 1195
+Con gai
+1258
+0
+0
+#
+@
+Hoang Minh Hung 1196
+Con gai
+1255
+1319
+0
+#
+#
+@
+Tran Duc Tuan 422
+Con gai
+1226
+1308
+1
+Vo/Chong 423
+@
+Vu Dinh Tuan 1197
+Con trai
+1258
+1347
+0
+#
+@
+Hoang Ngoc Tuan 1198
+Con trai
+1254
+0
+0
+#
+@
+Hoang Xuan Anh 1199
+Con gai
+1255
+1322
+0
+#
+@
+Vo Thi Phuong 1200
+Con trai
+1255
+1332
+0
+#
+#
+@
+Ly Van Hung 424
+Con gai
+1227
+0
+0
+@
+Hoang Huu Linh 1201
+Con gai
+1259
+0
+1
+Vo/Chong 1202
+#
+@
+Nguyen Minh Hung 1203
+Con trai
+1261
+1322
+1
+Vo/Chong 1204
+#
+#
+#
+@
+Bui Thi Kien 146
+Con gai
+1191
+1251
+0
+@
+Ly Thu Kien 425
+Con trai
+1213
+1299
+1
+Vo/Chong 426
+@
+Vu Van Hung 1205
+Con trai
+1233
+1285
+1
+Vo/Chong 1206
+#
+@
+Ngo Quang Hoa 1207
+Con gai
+1239
+1290
+0
+#
+@
+Vu Xuan Hoa 1208
+Con trai
+1239
+1320
+1
+Vo/Chong 1209
+#
+@
+Vu Quang Linh 1210
+Con gai
+1242
+1311
+0
+#
+#
+@
+Tran Thu Thanh 427
+Con trai
+1215
+1297
+1
+Vo/Chong 428
+@
+Vo Dinh Trang 1211
+Con trai
+1235
+1285
+1
+Vo/Chong 1212
+#
+@
+Ly Dinh Kien 1213
+Con gai
+1235
+1308
+0
+#
+@
+Bui Quang Trang 1214
+Con gai
+1239
+1291
+1
+Vo/Chong 1215
+#
+#
+@
+Tran Ngoc Thanh 429
+Con gai
+1224
+1306
+0
+@
+Ngo Duc Hoa 1216
+Con trai
+1252
+1304
+0
+#
+@
+Pham Minh Phuong 1217
+Con trai
+1244
+0
+0
+#
+@
+Nguyen Van Thanh 1218
+Con gai
+1253
+1304
+1
+Vo/Chong 1219
+#
+#
+@
+Nguyen Thi Phuong 430
+Con trai
+1216
+1276
+0
+@
+Tran Van Anh 1220
+Con gai
+1236
+1291
+0
+#
+@
+Ly Duc Thanh 1221
+Con trai
+1236
+1300
+1
+Vo/Chong 1222
+#
+@
+Nguyen Minh Kien 1223
+Con trai
+1248
+0
+0
+#
+#
+#
+@
+Hoang Duc Long 147
+Con trai
+1200
+1256
+1
+Vo/Chong 148
+@
+Ngo Dinh Phuong 431
+Con gai
+1229
+0
+0
+@
+Ly Thi Long 1224
+Con gai
+1261
+1339
+0
+#
+@
+Nguyen Thu Kien 1225
+Con gai
+1257
+0
+0
+#
+@
+Le Thi Linh 1226
+Con gai
+1250
+1310
+0
+#
+@
+Vo Dinh Anh 1227
+Con gai
+1259
+1332
+0
+#
+@
+Tran Huu Tuan 1228
+Con trai
+1253
+0
+0
+#
+#
+#
+#
+#
+@
+Pham Minh Linh 20
+Con gai
+1141
+1226
+0
+@
+Nguyen Xuan Thanh 49
+Con gai
+1168
+0
+1
+Vo/Chong 50
+@
+Tran Huu Trang 149
+Con gai
+1197
+1253
+0
+@
+Ly Thi Anh 432
+Con trai
+1217
+1290
+0
+@
+Tran Huu Hung 1229
+Con gai
+1238
+1303
+1
+Vo/Chong 1230
+#
+@
+Hoang Dinh Hung 1231
+Con trai
+1248
+0
+1
+Vo/Chong 1232
+#
+@
+Pham Duc Long 1233
+Con gai
+1251
+1321
+0
+#
+@
+Le Thu Trang 1234
+Con gai
+1251
+0
+1
+Vo/Chong 1235
+#
+@
+Bui Quang Anh 1236
+Con trai
+1251
+1314
+1
+Vo/Chong 1237
+#
+#
+@
+Le Minh Phuong 433
+Con gai
+1223
+1275
+1
+Vo/Chong 434
+@
+Tran Quang Anh 1238
+Con gai
+1251
+1316
+1
+Vo/Chong 1239
+#
+@
+Ly Minh Hoa 1240
+Con trai
+1245
+1306
+0
+#
+@
+Ly Xuan Hung 1241
+Con gai
+1254
+0
+0
+#
+@
+Ngo Xuan Trang 1242
+Con gai
+1243
+1322
+1
+Vo/Chong 1243
+#
+#
+#
+@
+Bui Duc Kien 150
+Con gai
+1193
+1280
+0
+@
+Le Xuan Hoa 435
+Con trai
+1226
+1302
+1
+Vo/Chong 436
+@
+Pham Van Linh 1244
+Con trai
+1249
+0
+0
+#
+@
+Ngo Van Linh 1245
+Con trai
+1258
+1315
+0
+#
+#
+@
+Pham Ngoc Thanh 437
+Con trai
+1226
+1288
+1
+Vo/Chong 438
+@
+Ngo Huu Long 1246
+Con trai
+1252
+1320
+1
+Vo/Chong 1247
+#
+@
+Hoang Huu Trang 1248
+Con trai
+1251
+0
+1
+Vo/Chong 1249
+#
+@
+Bui Dinh Anh 1250
+Con trai
+1253
+1310
+0
+#
+@
+Vu Duc Tuan 1251
+Con gai
+1252
+1334
+0
+#
+@
+Le Dinh Hung 1252
+Con gai
+1255
+1329
+1
+Vo/Chong 1253
+#
+#
+#
+@
+Le Ngoc Thanh 151
+Con trai
+1200
+0
+0
+@
+Ly Dinh Kien 439
+Con trai
+1222
+1291
+0
+@
+Hoang Thi Hoa 1254
+Con trai
+1242
+1303
+0
+#
+@
+Tran Xuan Trang 1255
+Con gai
+1250
+0
+0
+#
+@
+Vu Thu Hoa 1256
+Con gai
+1249
+1329
+1
+Vo/Chong 1257
+#
+@
+Hoang Minh Thanh 1258
+Con trai
+1256
+1318
+1
+Vo/Chong 1259
+#
+@
+Tran Duc Hoa 1260
+Con trai
+1244
+1294
+0
+#
+#
+@
+Ly Van Trang 440
+Con trai
+1234
+1290
+0
+@
+Hoang Huu Long 1261
+Con trai
+1266
+1351
+0
+#
+@
+Nguyen Quang Kien 1262
+Con trai
+1259
+1345
+1
+Vo/Chong 1263
+#
+@
+Ly Thu Tuan 1264
+Con gai
+1262
+1318
+0
+#
+@
+Nguyen Dinh Hung 1265
+Con gai
+1254
+1333
+1
+Vo/Chong 1266
+#
+#
+@
+Le Ngoc Thanh 441
+Con trai
+1226
+1305
+0
+@
+Ly Ngoc Trang 1267
+Con trai
+1253
+1323
+0
+#
+@
+Vo Huu Kien 1268
+Con gai
+1254
+1328
+0
+#
+@
+Vo Thi Tuan 1269
+Con gai
+1249
+1299
+1
+Vo/Chong 1270
+#
+@
+Nguyen Duc Long 1271
+Con trai
+1255
+0
+0
+#
+@
+Vu Thi Kien 1272
+Con trai
+1253
+1340
+0
+#
+#
+#
+@
+Tran Duc Long 152
+Con trai
+1195
+1266
+0
+@
+Ngo Xuan Anh 442
+Con trai
+1225
+0
+1
+Vo/Chong 443
+@
+Hoang Ngoc Kien 1273
+Con trai
+1254
+0
+0
+#
+@
+Ngo Thu Thanh 1274
+Con gai
+1251
+1314
+0
+#
+@
+Bui Quang Long 1275
+Con trai
+1251
+1322
+1
+Vo/Chong 1276
+#
+@
+Bui Dinh Thanh 1277
+Con trai
+1259
+1340
+0
+#
+@
+Pham Minh Anh 1278
+Con gai
+1247
+1297
+0
+#
+#
+@
+Hoang Ngoc Anh 444
+Con gai
+1217
+1304
+0
+@
+Pham Huu Thanh 1279
+Con gai
+1251
+0
+0
+#
+@
+Ly Thi Tuan 1280
+Con trai
+1239
+0
+1
+Vo/Chong 1281
+#
+@
+Tran Ngoc Linh 1282
+Con trai
+1250
+1318
+0
+#
+@
+Bui Thu Trang 1283
+Con gai
+1242
+1305
+0
+#
+#
+@
+Ly Huu Tuan 445
+Con gai
+1224
+1302
+0
+@
+Hoang Dinh Long 1284
+Con trai
+1248
+1316
+1
+Vo/Chong 1285
+#
+@
+Hoang Huu Tuan 1286
+Con trai
+1250
+0
+0
+#
+@
+Vu Dinh Tuan 1287
+Con trai
+1256
+1310
+0
+#
+@
+Vu Ngoc Hung 1288
+Con trai
+1249
+0
+1
+Vo/Chong 1289
+#
+#
+@
+Ngo Huu Kien 446
+Con gai
+1227
+1278
+1
+Vo/Chong 447
+@
+Vu Ngoc Linh 1290
+Con gai
+1261
+1330
+0
+#
+@
+Vu Xuan Hoa 1291
+Con gai
+1247
+1300
+1
+Vo/Chong 1292
+#
+@
+Pham Huu Tuan 1293
+Con gai
+1257
+1307
+0
+#
+@
+Vu Ngoc Hoa 1294
+Con gai
+1255
+0
+1
+Vo/Chong 1295
+#
+@
+Vo Minh Trang 1296
+Con gai
+1258
+0
+1
+Vo/Chong 1297
+#
+#
+@
+Pham Thu Kien 448
+Con gai
+1227
+0
+0
+@
+Bui Duc Trang 1298
+Con gai
+1255
+0
+1
+Vo/Chong 1299
+#
+@
+Hoang Minh Linh 1300
+Con trai
+1254
+1343
+1
+Vo/Chong 1301
+#
+@
+Vo Xuan Hung 1302
+Con gai
+1258
+1330
+1
+Vo/Chong 1303
+#
+@
+Vu Thu Trang 1304
+Con gai
+1247
+1329
+1
+Vo/Chong 1305
+#
+#
+#
+#
+@
+Ly Ngoc Hoa 51
+Con gai
+1165
+1233
+1
+Vo/Chong 52
+@
+Le Xuan Thanh 153
+Con gai
+1196
+0
+1
+Vo/Chong 154
+@
+Ngo Huu Trang 449
+Con gai
+1224
+1288
+1
+Vo/Chong 450
+@
+Vu Minh Anh 1306
+Con gai
+1254
+1316
+1
+Vo/Chong 1307
+#
+@
+Tran Duc Trang 1308
+Con gai
+1250
+1306
+0
+#
+@
+Ly Thi Long 1309
+Con trai
+1256
+1340
+0
+#
+@
+Tran Xuan Kien 1310
+Con trai
+1248
+1335
+1
+Vo/Chong 1311
+#
+@
+Bui Van Phuong 1312
+Con gai
+1257
+1324
+0
+#
+#
+@
+Le Duc Linh 451
+Con trai
+1217
+1278
+0
+@
+Bui Thu Kien 1313
+Con trai
+1243
+1313
+0
+#
+@
+Le Quang Thanh 1314
+Con gai
+1247
+0
+1
+Vo/Chong 1315
+#
+@
+Ngo Ngoc Kien 1316
+Con trai
+1244
+0
+1
+Vo/Chong 1317
+#
+#
+@
+Nguyen Van Kien 452
+Con gai
+1223
+1298
+0
+@
+Hoang Thu Tuan 1318
+Con gai
+1249
+1299
+1
+Vo/Chong 1319
+#
+@
+Hoang Quang Kien 1320
+Con gai
+1246
+1329
+0
+#
+@
+Vu Dinh Trang 1321
+Con gai
+1248
+1326
+1
+Vo/Chong 1322
+#
+#
+#
+@
+Le Ngoc Linh 155
+Con trai
+1194
+0
+0
+@
+Vo Quang Kien 453
+Con gai
+1214
+0
+1
+Vo/Chong 454
+@
+Bui Ngoc Kien 1323
+Con trai
+1235
+1320
+0
+#
+#
+#
+#
+@
+Ngo Duc Anh 53
+Con gai
+1172
+1252
+1
+Vo/Chong 54
+@
+Le Dinh Trang 156
+Con gai
+1200
+0
+0
+@
+Pham Dinh Thanh 455
+Con gai
+1221
+1292
+0
+@
+Vu Quang Phuong 1324
+Con trai
+1253
+1334
+1
+Vo/Chong 1325
+#
+@
+Bui Thi Thanh 1326
+Con trai
+1250
+1322
+0
+#
+#
+@
+Pham Xuan Thanh 456
+Con trai
+1221
+0
+0
+@
+Bui Van Kien 1327
+Con trai
+1250
+1323
+0
+#
+#
+@
+Hoang Thu Kien 457
+Con gai
+1227
+1297
+0
+@
+Le Dinh Phuong 1328
+Con gai
+1251
+1329
+1
+Vo/Chong 1329
+#
+@
+Le Huu Thanh 1330
+Con trai
+1251
+1312
+0
+#
+@
+Ly Thu Kien 1331
+Con trai
+1255
+0
+0
+#
+@
+Bui Thu Trang 1332
+Con trai
+1247
+1321
+1
+Vo/Chong 1333
+#
+@
+Le Van Anh 1334
+Con gai
+1247
+1307
+0
+#
+#
+@
+Tran Thu Thanh 458
+Con trai
+1220
+1303
+1
+Vo/Chong 459
+@
+Nguyen Minh Trang 1335
+Con gai
+1253
+1321
+1
+Vo/Chong 1336
+#
+@
+Le Huu Tuan 1337
+Con trai
+1252
+1329
+0
+#
+@
+Tran Duc Linh 1338
+Con gai
+1250
+1322
+1
+Vo/Chong 1339
+#
+@
+Hoang Ngoc Phuong 1340
+Con trai
+1244
+0
+0
+#
+@
+Ngo Van Hung 1341
+Con gai
+1244
+1328
+1
+Vo/Chong 1342
+#
+#
+@
+Pham Xuan Linh 460
+Con gai
+1222
+1311
+0
+@
+Vu Duc Hoa 1343
+Con trai
+1245
+0
+1
+Vo/Chong 1344
+#
+@
+Vu Dinh Thanh 1345
+Con trai
+1244
+1320
+0
+#
+@
+Le Thu Hung 1346
+Con gai
+1247
+1304
+1
+Vo/Chong 1347
+#
+#
+#
+@
+Ly Quang Phuong 157
+Con gai
+1195
+1277
+0
+@
+Tran Minh Kien 461
+Con trai
+1223
+1296
+1
+Vo/Chong 462
+@
+Bui Duc Tuan 1348
+Con trai
+1250
+1326
+1
+Vo/Chong 1349
+#
+@
+Tran Dinh Long 1350
+Con trai
+1257
+0
+1
+Vo/Chong 1351
+#
+@
+Nguyen Thu Hoa 1352
+Con trai
+1257
+1318
+1
+Vo/Chong 1353
+#
+#
+@
+Nguyen Huu Tuan 463
+Con trai
+1220
+1291
+1
+Vo/Chong 464
+@
+Ly Huu Tuan 1354
+Con gai
+1248
+0
+1
+Vo/Chong 1355
+#
+@
+Nguyen Huu Thanh 1356
+Con gai
+1250
+1330
+1
+Vo/Chong 1357
+#
+@
+Tran Thi Long 1358
+Con gai
+1249
+1324
+1
+Vo/Chong 1359
+#
+#
+#
+#
+#
+@
+Hoang Huu Long 21
+Con trai
+1141
+1191
+0
+@
+Tran Xuan Anh 55
+Con gai
+1164
+1228
+1
+Vo/Chong 56
+@
+Vo Xuan Tuan 158
+Con gai
+1193
+1272
+0
+@
+Nguyen Quang Trang 465
+Con trai
+1213
+1287
+1
+Vo/Chong 466
+@
+Tran Thu Phuong 1360
+Con trai
+1235
+0
+0
+#
+@
+Le Thi Hoa 1361
+Con trai
+1247
+1317
+1
+Vo/Chong 1362
+#
+@
+Pham Dinh Hoa 1363
+Con trai
+1243
+0
+1
+Vo/Chong 1364
+#
+@
+Ngo Van Thanh 1365
+Con trai
+1243
+1331
+0
+#
+@
+Ngo Huu Anh 1366
+Con trai
+1247
+1335
+0
+#
+#
+@
+Ngo Xuan Hoa 467
+Con trai
+1226
+1301
+1
+Vo/Chong 468
+@
+Pham Huu Phuong 1367
+Con trai
+1257
+0
+0
+#
+@
+Vo Quang Thanh 1368
+Con gai
+1247
+1297
+0
+#
+@
+Nguyen Xuan Hung 1369
+Con trai
+1260
+0
+1
+Vo/Chong 1370
+#
+#
+@
+Ly Xuan Linh 469
+Con gai
+1213
+1268
+1
+Vo/Chong 470
+@
+Le Van Trang 1371
+Con gai
+1245
+1321
+0
+#
+@
+Tran Quang Anh 1372
+Con trai
+1247
+0
+0
+#
+@
+Ngo Xuan Long 1373
+Con trai
+1238
+1319
+0
+#
+@
+Ngo Xuan Long 1374
+Con gai
+1242
+1328
+0
+#
+@
+Hoang Huu Kien 1375
+Con gai
+1242
+1303
+0
+#
+#
+#
+@
+Ly Duc Phuong 159
+Con gai
+1196
+0
+0
+@
+Nguyen Duc Linh 471
+Con trai
+1220
+1297
+1
+Vo/Chong 472
+@
+Le Huu Linh 1376
+Con gai
+1245
+0
+1
+Vo/Chong 1377
+#
+#
+@
+Nguyen Thi Thanh 473
+Con gai
+1223
+1309
+0
+@
+Ly Thi Phuong 1378
+Con trai
+1252
+1306
+0
+#
+#
+@
+Ly Minh Phuong 474
+Con trai
+1217
+0
+0
+@
+Le Minh Anh 1379
+Con gai
+1245
+1331
+0
+#
+@
+Le Huu Kien 1380
+Con gai
+1242
+1326
+1
+Vo/Chong 1381
+#
+@
+Pham Huu Trang 1382
+Con gai
+1237
+1293
+1
+Vo/Chong 1383
+#
+@
+Vo Huu Linh 1384
+Con trai
+1251
+0
+1
+Vo/Chong 1385
+#
+#
+@
+Hoang Minh Long 475
+Con trai
+1219
+0
+0
+@
+Ngo Duc Phuong 1386
+Con gai
+1251
+1325
+1
+Vo/Chong 1387
+#
+@
+Pham Thi Tuan 1388
+Con gai
+1248
+1325
+1
+Vo/Chong 1389
+#
+#
+@
+Hoang Thu Anh 476
+Con trai
+1227
+0
+1
+Vo/Chong 477
+@
+Vu Xuan Linh 1390
+Con trai
+1259
+0
+0
+#
+@
+Ly Dinh Tuan 1391
+Con gai
+1256
+1318
+0
+#
+#
+#
+#
+@
+Vu Huu Kien 57
+Con gai
+1161
+0
+0
+@
+Bui Thi Kien 160
+Con trai
+1184
+1247
+0
+@
+Hoang Van Phuong 478
+Con trai
+1211
+0
+0
+@
+Bui Huu Anh 1392
+Con gai
+1237
+1302
+1
+Vo/Chong 1393
+#
+@
+Tran Duc Hoa 1394
+Con gai
+1233
+1299
+0
+#
+@
+Le Quang Anh 1395
+Con trai
+1233
+0
+1
+Vo/Chong 1396
+#
+@
+Ngo Quang Hoa 1397
+Con gai
+1232
+0
+0
+#
+#
+@
+Nguyen Quang Phuong 479
+Con trai
+1211
+1298
+1
+Vo/Chong 480
+@
+Pham Minh Thanh 1398
+Con gai
+1244
+1303
+1
+Vo/Chong 1399
+#
+#
+@
+Vu Thu Hung 481
+Con gai
+1204
+1284
+0
+@
+Le Quang Hung 1400
+Con trai
+1225
+1296
+0
+#
+@
+Bui Minh Thanh 1401
+Con trai
+1226
+1297
+1
+Vo/Chong 1402
+#
+@
+Ly Huu Linh 1403
+Con gai
+1236
+1322
+1
+Vo/Chong 1404
+#
+@
+Ly Xuan Tuan 1405
+Con gai
+1229
+1313
+0
+#
+#
+@
+Vu Duc Phuong 482
+Con trai
+1216
+1304
+0
+@
+Vo Thu Tuan 1406
+Con trai
+1249
+1306
+0
+#
+@
+Vu Duc Hoa 1407
+Con trai
+1239
+1322
+0
+#
+@
+Vo Xuan Long 1408
+Con gai
+1241
+1292
+1
+Vo/Chong 1409
+#
+@
+Ly Xuan Phuong 1410
+Con trai
+1241
+1319
+0
+#
+@
+Ly Minh Tuan 1411
+Con trai
+1239
+0
+1
+Vo/Chong 1412
+#
+#
+@
+Hoang Thi Trang 483
+Con gai
+1207
+1292
+0
+@
+Ly Ngoc Anh 1413
+Con gai
+1231
+0
+1
+Vo/Chong 1414
+#
+@
+Tran Huu Hung 1415
+Con gai
+1230
+1305
+1
+Vo/Chong 1416
+#
+@
+Nguyen Quang Thanh 1417
+Con gai
+1228
+1307
+1
+Vo/Chong 1418
+#
+#
+#
+@
+Vu Quang Anh 161
+Con trai
+1182
+1260
+0
+@
+Pham Thu Hung 484
+Con trai
+1203
+1268
+1
+Vo/Chong 485
+@
+Vo Van Tuan 1419
+Con gai
+1230
+1298
+1
+Vo/Chong 1420
+#
+@
+Pham Minh Linh 1421
+Con trai
+1226
+1294
+0
+#
+@
+Vu Duc Linh 1422
+Con gai
+1227
+0
+0
+#
+@
+Ly Thi Phuong 1423
+Con gai
+1227
+1316
+0
+#
+#
+@
+Nguyen Duc Linh 486
+Con gai
+1202
+1290
+1
+Vo/Chong 487
+@
+Vu Xuan Tuan 1424
+Con trai
+1225
+1295
+0
+#
+@
+Ngo Xuan Long 1425
+Con trai
+1232
+1297
+1
+Vo/Chong 1426
+#
+@
+Bui Quang Hung 1427
+Con trai
+1225
+0
+1
+Vo/Chong 1428
+#
+@
+Hoang Duc Hoa 1429
+Con gai
+1231
+0
+0
+#
+@
+Ly Thi Linh 1430
+Con gai
+1223
+1273
+1
+Vo/Chong 1431
+#
+#
+@
+Vu Minh Hung 488
+Con trai
+1212
+1294
+1
+Vo/Chong 489
+@
+Pham Duc Hoa 1432
+Con gai
+1238
+1288
+1
+Vo/Chong 1433
+#
+#
+@
+Nguyen Duc Long 490
+Con trai
+1211
+1273
+1
+Vo/Chong 491
+@
+Le Ngoc Thanh 1434
+Con gai
+1242
+0
+1
+Vo/Chong 1435
+#
+@
+Bui Duc Tuan 1436
+Con trai
+1239
+0
+0
+#
+@
+Nguyen Dinh Hung 1437
+Con trai
+1237
+1305
+1
+Vo/Chong 1438
+#
+#
+@
+Ngo Duc Linh 492
+Con gai
+1204
+1290
+0
+@
+Ly Dinh Trang 1439
+Con trai
+1238
+1295
+1
+Vo/Chong 1440
+#
+@
+Vu Dinh Linh 1441
+Con gai
+1238
+1311
+0
+#
+@
+Bui Thi Anh 1442
+Con gai
+1234
+1284
+0
+#
+@
+Bui Xuan Long 1443
+Con gai
+1224
+0
+1
+Vo/Chong 1444
+#
+#
+#
+@
+Pham Quang Long 162
+Con trai
+1193
+0
+1
+Vo/Chong 163
+@
+Hoang Thu Kien 493
+Con trai
+1225
+1277
+1
+Vo/Chong 494
+@
+Ngo Minh Hung 1445
+Con gai
+1248
+1315
+1
+Vo/Chong 1446
+#
+@
+Ly Ngoc Kien 1447
+Con trai
+1248
+0
+1
+Vo/Chong 1448
+#
+@
+Vu Dinh Anh 1449
+Con gai
+1259
+1320
+0
+#
+@
+Vo Xuan Anh 1450
+Con trai
+1250
+1322
+1
+Vo/Chong 1451
+#
+@
+Tran Van Hoa 1452
+Con gai
+1250
+1300
+1
+Vo/Chong 1453
+#
+#
+@
+Bui Duc Hung 495
+Con gai
+1218
+0
+0
+@
+Pham Quang Hung 1454
+Con trai
+1248
+1323
+1
+Vo/Chong 1455
+#
+@
+Pham Quang Linh 1456
+Con trai
+1252
+1303
+0
+#
+@
+Hoang Huu Phuong 1457
+Con gai
+1241
+0
+1
+Vo/Chong 1458
+#
+#
+#
+@
+Ly Thu Long 164
+Con gai
+1191
+1266
+0
+@
+Ly Ngoc Hung 496
+Con trai
+1215
+1289
+0
+@
+Hoang Thi Long 1459
+Con gai
+1248
+0
+0
+#
+@
+Nguyen Huu Linh 1460
+Con trai
+1249
+1330
+1
+Vo/Chong 1461
+#
+@
+Le Minh Kien 1462
+Con gai
+1246
+1334
+1
+Vo/Chong 1463
+#
+@
+Nguyen Xuan Long 1464
+Con trai
+1243
+1304
+1
+Vo/Chong 1465
+#
+#
+@
+Pham Minh Tuan 497
+Con trai
+1219
+1269
+0
+@
+Vu Minh Linh 1466
+Con gai
+1244
+1294
+1
+Vo/Chong 1467
+#
+#
+@
+Le Dinh Phuong 498
+Con gai
+1220
+1299
+0
+@
+Vo Dinh Long 1468
+Con gai
+1252
+1335
+0
+#
+@
+Pham Huu Hung 1469
+Con gai
+1251
+0
+0
+#
+@
+Nguyen Quang Anh 1470
+Con gai
+1243
+1306
+1
+Vo/Chong 1471
+#
+@
+Vo Van Trang 1472
+Con trai
+1241
+1291
+0
+#
+#
+@
+Vo Thi Thanh 499
+Con trai
+1219
+1292
+0
+@
+Pham Thu Linh 1473
+Con gai
+1248
+0
+0
+#
+@
+Le Thu Phuong 1474
+Con trai
+1246
+1329
+1
+Vo/Chong 1475
+#
+@
+Nguyen Dinh Kien 1476
+Con gai
+1248
+1307
+0
+#
+@
+Ngo Dinh Phuong 1477
+Con trai
+1251
+1304
+1
+Vo/Chong 1478
+#
+@
+Pham Minh Kien 1479
+Con gai
+1247
+1324
+0
+#
+#
+@
+Ly Minh Hung 500
+Con trai
+1211
+1266
+1
+Vo/Chong 501
+@
+Nguyen Minh Long 1480
+Con trai
+1233
+1314
+1
+Vo/Chong 1481
+#
+#
+#
+@
+Ly Dinh Hung 165
+Con gai
+1181
+0
+1
+Vo/Chong 166
+@
+Tran Van Trang 502
+Con trai
+1207
+0
+1
+Vo/Chong 503
+@
+Vu Duc Phuong 1482
+Con trai
+1235
+1320
+1
+Vo/Chong 1483
+#
+@
+Hoang Thu Tuan 1484
+Con gai
+1240
+0
+0
+#
+#
+#
+#
+#
+@
+Hoang Huu Tuan 22
+Con gai
+1143
+1201
+1
+Vo/Chong 23
+@
+Ngo Thu Hung 58
+Con gai
+1165
+1240
+0
+@
+Vu Duc Kien 167
+Con gai
+1196
+0
+0
+@
+Hoang Ngoc Kien 504
+Con trai
+1224
+1300
+0
+@
+Vo Thu Long 1485
+Con gai
+1254
+1330
+0
+#
+@
+Tran Huu Linh 1486
+Con trai
+1256
+1345
+0
+#
+@
+Nguyen Thi Phuong 1487
+Con trai
+1256
+1324
+1
+Vo/Chong 1488
+#
+#
+@
+Pham Xuan Tuan 505
+Con trai
+1226
+1314
+0
+@
+Nguyen Van Linh 1489
+Con gai
+1255
+1311
+0
+#
+@
+Ly Quang Phuong 1490
+Con trai
+1246
+1332
+1
+Vo/Chong 1491
+#
+@
+Ngo Duc Kien 1492
+Con gai
+1252
+1313
+1
+Vo/Chong 1493
+#
+#
+@
+Vo Ngoc Long 506
+Con trai
+1217
+1284
+1
+Vo/Chong 507
+@
+Pham Dinh Thanh 1494
+Con trai
+1249
+1303
+1
+Vo/Chong 1495
+#
+@
+Ngo Thu Trang 1496
+Con gai
+1242
+1305
+1
+Vo/Chong 1497
+#
+@
+Vo Duc Anh 1498
+Con trai
+1240
+1316
+0
+#
+@
+Pham Huu Linh 1499
+Con gai
+1247
+1325
+1
+Vo/Chong 1500
+#
+#
+@
+Tran Van Hoa 508
+Con gai
+1223
+1309
+0
+@
+Tran Xuan Anh 1501
+Con gai
+1243
+0
+0
+#
+@
+Bui Thi Linh 1502
+Con trai
+1245
+1312
+1
+Vo/Chong 1503
+#
+#
+#
+@
+Tran Huu Anh 168
+Con trai
+1199
+0
+0
+@
+Vu Quang Long 509
+Con trai
+1229
+0
+0
+@
+Vo Thi Tuan 1504
+Con trai
+1253
+1313
+1
+Vo/Chong 1505
+#
+@
+Nguyen Thu Hoa 1506
+Con trai
+1257
+0
+1
+Vo/Chong 1507
+#
+@
+Le Duc Trang 1508
+Con gai
+1258
+0
+1
+Vo/Chong 1509
+#
+#
+@
+Ngo Quang Long 510
+Con gai
+1225
+0
+0
+@
+Ly Xuan Long 1510
+Con trai
+1250
+1339
+1
+Vo/Chong 1511
+#
+@
+Bui Dinh Long 1512
+Con gai
+1247
+1303
+1
+Vo/Chong 1513
+#
+@
+Vo Quang Thanh 1514
+Con gai
+1255
+1316
+0
+#
+@
+Le Minh Long 1515
+Con gai
+1253
+0
+1
+Vo/Chong 1516
+#
+@
+Vu Quang Long 1517
+Con trai
+1256
+1325
+0
+#
+#
+#
+@
+Vo Quang Kien 169
+Con trai
+1193
+0
+0
+@
+Le Quang Long 511
+Con trai
+1223
+0
+0
+@
+Nguyen Thu Long 1518
+Con gai
+1257
+1323
+1
+Vo/Chong 1519
+#
+#
+@
+Tran Quang Hung 512
+Con trai
+1223
+1299
+1
+Vo/Chong 513
+@
+Bui Dinh Hung 1520
+Con trai
+1248
+1331
+0
+#
+@
+Nguyen Quang Linh 1521
+Con gai
+1246
+1319
+0
+#
+@
+Le Thu Tuan 1522
+Con trai
+1244
+1323
+1
+Vo/Chong 1523
+#
+#
+#
+@
+Ly Van Hung 170
+Con gai
+1195
+1283
+1
+Vo/Chong 171
+@
+Le Dinh Long 514
+Con gai
+1226
+1305
+0
+@
+Tran Dinh Linh 1524
+Con gai
+1251
+1335
+1
+Vo/Chong 1525
+#
+#
+@
+Tran Van Phuong 515
+Con trai
+1216
+0
+0
+#
+@
+Vu Huu Phuong 516
+Con trai
+1227
+0
+0
+#
+#
+@
+Ly Ngoc Hung 172
+Con gai
+1192
+0
+1
+Vo/Chong 173
+@
+Hoang Thi Tuan 517
+Con gai
+1224
+1304
+1
+Vo/Chong 518
+#
+@
+Vu Huu Trang 519
+Con trai
+1212
+0
+0
+#
+@
+Ngo Thu Hoa 520
+Con gai
+1216
+1266
+0
+#
+#
+#
+#
+#
+@
+Vu Duc Kien 12
+Con trai
+1122
+1194
+0
+@
+Bui Dinh Anh 24
+Con gai
+1148
+1214
+0
+@
+Pham Van Long 59
+Con gai
+1181
+1259
+1
+Vo/Chong 60
+@
+Ngo Quang Phuong 174
+Con trai
+1212
+1268
+0
+@
+Tran Xuan Long 521
+Con gai
+1245
+1330
+1
+Vo/Chong 522
+#
+@
+Vu Thu Tuan 523
+Con trai
+1236
+1299
+1
+Vo/Chong 524
+#
+#
+@
+Bui Van Trang 175
+Con gai
+1215
+1285
+1
+Vo/Chong 176
+@
+Nguyen Huu Tuan 525
+Con gai
+1242
+0
+0
+#
+@
+Tran Van Hoa 526
+Con gai
+1243
+0
+0
+#
+@
+Hoang Huu Kien 527
+Con trai
+1245
+1313
+1
+Vo/Chong 528
+#
+@
+Bui Van Long 529
+Con trai
+1240
+1322
+0
+#
+@
+Hoang Quang Trang 530
+Con gai
+1244
+0
+0
+#
+#
+@
+Ngo Duc Linh 177
+Con gai
+1210
+0
+1
+Vo/Chong 178
+@
+Tran Ngoc Phuong 531
+Con trai
+1243
+1298
+1
+Vo/Chong 532
+#
+#
+@
+Vo Van Hoa 179
+Con trai
+1203
+1261
+0
+@
+Nguyen Ngoc Hoa 533
+Con gai
+1227
+1304
+0
+#
+@
+Pham Thu Long 534
+Con gai
+1233
+1300
+0
+#
+@
+Hoang Xuan Tuan 535
+Con gai
+1227
+1285
+1
+Vo/Chong 536
+#
+@
+Ly Thu Thanh 537
+Con gai
+1234
+0
+0
+#
+#
+@
+Ngo Thu Kien 180
+Con trai
+1205
+1274
+0
+@
+Pham Ngoc Trang 538
+Con trai
+1234
+1290
+0
+#
+@
+Ly Quang Hung 539
+Con trai
+1228
+1291
+1
+Vo/Chong 540
+#
+#
+#
+@
+Hoang Thu Trang 61
+Con gai
+1181
+0
+1
+Vo/Chong 62
+@
+Nguyen Duc Anh 181
+Con trai
+1210
+1277
+0
+@
+Nguyen Thu Trang 541
+Con gai
+1235
+1319
+1
+Vo/Chong 542
+#
+#
+#
+@
+Vu Quang Hung 63
+Con trai
+1171
+1244
+0
+@
+Bui Xuan Thanh 182
+Con gai
+1198
+1287
+1
+Vo/Chong 183
+@
+Vu Minh Hung 543
+Con trai
+1223
+1295
+0
+#
+@
+Bui Thu Tuan 544
+Con trai
+1229
+1284
+0
+#
+@
+Bui Dinh Long 545
+Con trai
+1224
+1289
+1
+Vo/Chong 546
+#
+@
+Ngo Ngoc Tuan 547
+Con trai
+1229
+1292
+0
+#
+#
+#
+@
+Ngo Thu Anh 64
+Con gai
+1176
+1258
+1
+Vo/Chong 65
+@
+Vo Quang Trang 184
+Con trai
+1206
+1272
+1
+Vo/Chong 185
+@
+Ngo Huu Long 548
+Con trai
+1238
+1323
+1
+Vo/Chong 549
+#
+@
+Vu Thu Anh 550
+Con trai
+1235
+1309
+1
+Vo/Chong 551
+#
+#
+@
+Ngo Thu Trang 186
+Con gai
+1203
+1260
+0
+@
+Ly Thi Phuong 552
+Con trai
+1237
+1292
+1
+Vo/Chong 553
+#
+@
+Ngo Dinh Linh 554
+Con trai
+1228
+1294
+0
+#
+#
+@
+Ngo Quang Hung 187
+Con gai
+1210
+0
+0
+@
+Ngo Thi Thanh 555
+Con trai
+1230
+1299
+1
+Vo/Chong 556
+#
+#
+#
+#
+@
+Vo Van Phuong 25
+Con gai
+1148
+1202
+1
+Vo/Chong 26
+@
+Nguyen Thi Anh 66
+Con gai
+1169
+1249
+1
+Vo/Chong 67
+@
+Vu Dinh Anh 188
+Con trai
+1196
+1249
+1
+Vo/Chong 189
+@
+Nguyen Quang Trang 557
+Con trai
+1224
+1297
+0
+#
+@
+Pham Minh Kien 558
+Con gai
+1222
+1293
+1
+Vo/Chong 559
+#
+@
+Nguyen Thi Hoa 560
+Con trai
+1217
+1286
+1
+Vo/Chong 561
+#
+@
+Hoang Xuan Thanh 562
+Con gai
+1217
+1301
+0
+#
+#
+@
+Hoang Ngoc Hoa 190
+Con trai
+1199
+1267
+0
+@
+Vo Duc Tuan 563
+Con trai
+1227
+0
+0
+#
+#
+@
+Bui Van Linh 191
+Con gai
+1191
+1272
+0
+@
+Vu Minh Tuan 564
+Con trai
+1214
+1299
+1
+Vo/Chong 565
+#
+@
+Ngo Minh Hung 566
+Con trai
+1218
+1305
+0
+#
+@
+Ngo Xuan Anh 567
+Con trai
+1221
+1294
+1
+Vo/Chong 568
+#
+@
+Ly Thu Long 569
+Con trai
+1211
+0
+1
+Vo/Chong 570
+#
+@
+Ly Van Anh 571
+Con trai
+1220
+1281
+1
+Vo/Chong 572
+#
+#
+#
+@
+Vu Thu Long 68
+Con gai
+1177
+1235
+0
+@
+Ly Thi Linh 192
+Con gai
+1200
+1251
+1
+Vo/Chong 193
+@
+Vo Duc Thanh 573
+Con trai
+1232
+1285
+1
+Vo/Chong 574
+#
+@
+Ly Thi Hoa 575
+Con trai
+1226
+1282
+1
+Vo/Chong 576
+#
+@
+Nguyen Thu Linh 577
+Con gai
+1234
+1320
+1
+Vo/Chong 578
+#
+@
+Hoang Huu Linh 579
+Con gai
+1234
+1320
+0
+#
+#
+#
+#
+@
+Nguyen Minh Tuan 27
+Con trai
+1154
+0
+1
+Vo/Chong 28
+@
+Pham Thi Phuong 69
+Con gai
+1183
+1244
+1
+Vo/Chong 70
+@
+Vu Xuan Anh 194
+Con gai
+1211
+1299
+0
+@
+Le Quang Anh 580
+Con gai
+1240
+1316
+1
+Vo/Chong 581
+#
+@
+Le Duc Long 582
+Con gai
+1235
+0
+0
+#
+@
+Ngo Quang Linh 583
+Con gai
+1234
+1321
+0
+#
+@
+Vo Thu Linh 584
+Con gai
+1237
+0
+0
+#
+@
+Le Huu Linh 585
+Con trai
+1235
+0
+0
+#
+#
+@
+Vo Thi Kien 195
+Con trai
+1213
+1285
+1
+Vo/Chong 196
+@
+Ngo Ngoc Long 586
+Con gai
+1233
+0
+0
+#
+#
+@
+Vo Van Hoa 197
+Con trai
+1203
+1268
+1
+Vo/Chong 198
+@
+Vu Quang Kien 587
+Con trai
+1235
+1306
+1
+Vo/Chong 588
+#
+#
+#
+@
+Tran Dinh Linh 71
+Con gai
+1184
+1270
+1
+Vo/Chong 72
+@
+Nguyen Van Anh 199
+Con gai
+1215
+0
+0
+@
+Vu Ngoc Phuong 589
+Con trai
+1236
+1311
+1
+Vo/Chong 590
+#
+@
+Ly Dinh Linh 591
+Con trai
+1249
+1313
+1
+Vo/Chong 592
+#
+@
+Tran Thi Tuan 593
+Con trai
+1245
+1302
+1
+Vo/Chong 594
+#
+@
+Vo Quang Kien 595
+Con trai
+1241
+1327
+0
+#
+@
+Nguyen Duc Hoa 596
+Con trai
+1244
+1307
+0
+#
+#
+#
+@
+Ly Dinh Tuan 73
+Con trai
+1180
+1244
+1
+Vo/Chong 74
+@
+Pham Ngoc Kien 200
+Con gai
+1201
+1253
+1
+Vo/Chong 201
+@
+Ngo Ngoc Thanh 597
+Con trai
+1234
+1321
+1
+Vo/Chong 598
+#
+#
+@
+Vo Quang Tuan 202
+Con gai
+1202
+1285
+0
+@
+Tran Van Anh 599
+Con gai
+1227
+1278
+0
+#
+@
+Ly Huu Long 600
+Con gai
+1231
+1305
+0
+#
+#
+#
+@
+Vu Thi Phuong 75
+Con gai
+1176
+1232
+1
+Vo/Chong 76
+@
+Tran Duc Kien 203
+Con trai
+1198
+0
+1
+Vo/Chong 204
+@
+Tran Quang Long 601
+Con gai
+1218
+1298
+1
+Vo/Chong 602
+#
+@
+Le Minh Trang 603
+Con gai
+1230
+1302
+1
+Vo/Chong 604
+#
+@
+Pham Ngoc Tuan 605
+Con gai
+1227
+1313
+1
+Vo/Chong 606
+#
+#
+@
+Bui Minh Phuong 205
+Con gai
+1201
+1262
+0
+@
+Le Xuan Linh 607
+Con trai
+1234
+0
+1
+Vo/Chong 608
+#
+#
+#
+#
+#
+#
+@
+Hoang Huu Kien 6
+Con gai
+1086
+1170
+1
+Vo/Chong 7
+@
+Ngo Thu Kien 13
+Con trai
+1115
+0
+0
+@
+Pham Xuan Hung 29
+Con trai
+1142
+1196
+0
+@
+Bui Quang Trang 77
+Con trai
+1166
+1236
+1
+Vo/Chong 78
+@
+Vu Huu Thanh 206
+Con gai
+1186
+1274
+0
+@
+Vo Duc Thanh 609
+Con trai
+1217
+1286
+0
+#
+#
+@
+Bui Minh Trang 207
+Con gai
+1194
+1267
+0
+@
+Nguyen Quang Kien 610
+Con trai
+1216
+1269
+1
+Vo/Chong 611
+#
+@
+Tran Duc Linh 612
+Con trai
+1223
+1308
+0
+#
+@
+Tran Duc Long 613
+Con trai
+1218
+0
+0
+#
+@
+Ngo Ngoc Kien 614
+Con trai
+1216
+1275
+0
+#
+@
+Pham Thi Trang 615
+Con trai
+1217
+0
+0
+#
+#
+@
+Tran Ngoc Thanh 208
+Con gai
+1187
+1267
+1
+Vo/Chong 209
+@
+Nguyen Thu Kien 616
+Con gai
+1218
+0
+0
+#
+@
+Tran Huu Linh 617
+Con gai
+1218
+1272
+1
+Vo/Chong 618
+#
+@
+Le Quang Long 619
+Con trai
+1219
+1276
+0
+#
+@
+Vu Xuan Linh 620
+Con trai
+1215
+0
+0
+#
+#
+@
+Ly Dinh Thanh 210
+Con gai
+1197
+1257
+0
+@
+Ngo Minh Hoa 621
+Con gai
+1224
+1301
+1
+Vo/Chong 622
+#
+@
+Pham Van Hung 623
+Con trai
+1226
+0
+1
+Vo/Chong 624
+#
+#
+#
+@
+Bui Dinh Thanh 79
+Con trai
+1175
+1244
+1
+Vo/Chong 80
+@
+Tran Van Kien 211
+Con trai
+1198
+1265
+1
+Vo/Chong 212
+@
+Ly Van Tuan 625
+Con trai
+1229
+0
+0
+#
+@
+Pham Van Long 626
+Con gai
+1231
+1290
+0
+#
+@
+Le Van Thanh 627
+Con gai
+1225
+1282
+1
+Vo/Chong 628
+#
+@
+Vu Van Long 629
+Con gai
+1230
+0
+1
+Vo/Chong 630
+#
+@
+Vu Thi Kien 631
+Con gai
+1221
+0
+1
+Vo/Chong 632
+#
+#
+@
+Pham Duc Hoa 213
+Con trai
+1200
+1269
+0
+@
+Bui Ngoc Phuong 633
+Con trai
+1221
+0
+0
+#
+@
+Ly Quang Trang 634
+Con trai
+1233
+1305
+0
+#
+@
+Tran Thu Tuan 635
+Con gai
+1234
+1289
+0
+#
+@
+Le Xuan Linh 636
+Con gai
+1222
+1283
+1
+Vo/Chong 637
+#
+#
+@
+Vu Van Long 214
+Con gai
+1205
+0
+1
+Vo/Chong 215
+@
+Ngo Quang Tuan 638
+Con trai
+1236
+1295
+1
+Vo/Chong 639
+#
+@
+Bui Duc Hung 640
+Con trai
+1229
+1292
+1
+Vo/Chong 641
+#
+#
+#
+@
+Tran Quang Hung 81
+Con gai
+1172
+1237
+0
+@
+Vo Quang Anh 216
+Con gai
+1199
+1270
+1
+Vo/Chong 217
+@
+Le Xuan Long 642
+Con trai
+1225
+1308
+1
+Vo/Chong 643
+#
+@
+Bui Minh Tuan 644
+Con trai
+1225
+1286
+1
+Vo/Chong 645
+#
+@
+Vu Duc Long 646
+Con gai
+1227
+1301
+1
+Vo/Chong 647
+#
+#
+@
+Pham Van Anh 218
+Con trai
+1195
+1247
+1
+Vo/Chong 219
+@
+Ly Van Anh 648
+Con gai
+1224
+0
+1
+Vo/Chong 649
+#
+@
+Tran Minh Phuong 650
+Con trai
+1217
+1303
+0
+#
+#
+@
+Le Minh Long 220
+Con trai
+1193
+1267
+0
+@
+Vo Xuan Hoa 651
+Con trai
+1221
+1304
+0
+#
+@
+Nguyen Thi Linh 652
+Con gai
+1215
+1298
+0
+#
+@
+Vo Huu Hoa 653
+Con gai
+1220
+0
+0
+#
+@
+Tran Xuan Tuan 654
+Con trai
+1224
+0
+1
+Vo/Chong 655
+#
+@
+Vo Thi Linh 656
+Con gai
+1218
+1296
+0
+#
+#
+@
+Pham Van Hoa 221
+Con trai
+1201
+0
+1
+Vo/Chong 222
+@
+Le Quang Thanh 657
+Con trai
+1224
+1300
+0
+#
+@
+Hoang Dinh Tuan 658
+Con trai
+1226
+1310
+1
+Vo/Chong 659
+#
+@
+Vo Duc Linh 660
+Con trai
+1225
+1306
+0
+#
+@
+Hoang Quang Long 661
+Con trai
+1234
+1295
+0
+#
+@
+Bui Duc Trang 662
+Con gai
+1230
+0
+1
+Vo/Chong 663
+#
+#
+#
+@
+Le Xuan Phuong 82
+Con trai
+1176
+1245
+0
+@
+Tran Van Thanh 223
+Con gai
+1204
+1256
+0
+@
+Nguyen Dinh Long 664
+Con gai
+1224
+1283
+1
+Vo/Chong 665
+#
+@
+Le Thu Kien 666
+Con trai
+1234
+1323
+0
+#
+#
+@
+Bui Thu Tuan 224
+Con gai
+1208
+1277
+1
+Vo/Chong 225
+@
+Pham Dinh Phuong 667
+Con gai
+1235
+1324
+0
+#
+@
+Hoang Huu Hoa 668
+Con gai
+1228
+1305
+1
+Vo/Chong 669
+#
+#
+@
+Le Xuan Anh 226
+Con gai
+1203
+1292
+0
+@
+Bui Van Trang 670
+Con trai
+1232
+1317
+0
+#
+@
+Hoang Dinh Phuong 671
+Con gai
+1225
+0
+1
+Vo/Chong 672
+#
+@
+Vu Xuan Tuan 673
+Con gai
+1234
+1312
+0
+#
+#
+@
+Vo Dinh Tuan 227
+Con gai
+1197
+1281
+0
+@
+Nguyen Ngoc Phuong 674
+Con gai
+1219
+1280
+1
+Vo/Chong 675
+#
+@
+Hoang Dinh Kien 676
+Con trai
+1221
+1300
+1
+Vo/Chong 677
+#
+#
+#
+@
+Pham Minh Hung 83
+Con gai
+1169
+1242
+0
+@
+Pham Van Linh 228
+Con trai
+1202
+1279
+0
+@
+Ly Thi Phuong 678
+Con gai
+1227
+1307
+1
+Vo/Chong 679
+#
+@
+Hoang Dinh Phuong 680
+Con gai
+1232
+1315
+0
+#
+@
+Ngo Quang Linh 681
+Con trai
+1235
+1296
+0
+#
+@
+Vu Thi Anh 682
+Con gai
+1225
+1293
+0
+#
+@
+Le Ngoc Phuong 683
+Con gai
+1222
+1306
+1
+Vo/Chong 684
+#
+#
+@
+Bui Thi Anh 229
+Con gai
+1196
+0
+1
+Vo/Chong 230
+@
+Vu Duc Tuan 685
+Con gai
+1219
+1270
+0
+#
+#
+#
+#
+@
+Nguyen Minh Linh 30
+Con gai
+1146
+1226
+0
+@
+Tran Ngoc Linh 84
+Con gai
+1167
+1218
+1
+Vo/Chong 85
+@
+Ly Huu Phuong 231
+Con trai
+1187
+0
+0
+@
+Ly Huu Hung 686
+Con trai
+1221
+0
+1
+Vo/Chong 687
+#
+@
+Vo Thi Long 688
+Con gai
+1220
+1286
+1
+Vo/Chong 689
+#
+@
+Ly Thi Linh 690
+Con gai
+1207
+1286
+1
+Vo/Chong 691
+#
+@
+Hoang Minh Long 692
+Con gai
+1210
+1277
+0
+#
+@
+Ngo Xuan Kien 693
+Con trai
+1219
+1278
+0
+#
+#
+#
+@
+Ngo Thi Phuong 86
+Con trai
+1175
+1225
+1
+Vo/Chong 87
+@
+Tran Xuan Anh 232
+Con trai
+1195
+1259
+0
+@
+Ngo Duc Thanh 694
+Con trai
+1219
+1301
+1
+Vo/Chong 695
+#
+@
+Pham Huu Linh 696
+Con gai
+1218
+1289
+0
+#
+@
+Ly Thi Linh 697
+Con gai
+1229
+1299
+1
+Vo/Chong 698
+#
+@
+Ngo Huu Trang 699
+Con trai
+1226
+1314
+0
+#
+@
+Hoang Ngoc Tuan 700
+Con gai
+1229
+1318
+1
+Vo/Chong 701
+#
+#
+@
+Bui Minh Kien 233
+Con trai
+1199
+1282
+0
+@
+Ngo Ngoc Hoa 702
+Con trai
+1225
+0
+1
+Vo/Chong 703
+#
+@
+Ngo Thu Trang 704
+Con trai
+1227
+0
+0
+#
+@
+Hoang Quang Tuan 705
+Con trai
+1233
+0
+1
+Vo/Chong 706
+#
+#
+#
+@
+Ngo Thi Tuan 88
+Con gai
+1179
+1243
+0
+@
+Vu Huu Trang 234
+Con gai
+1204
+1287
+1
+Vo/Chong 235
+@
+Vu Xuan Hoa 707
+Con trai
+1235
+1287
+1
+Vo/Chong 708
+#
+@
+Vo Thu Long 709
+Con trai
+1235
+1320
+1
+Vo/Chong 710
+#
+@
+Tran Minh Long 711
+Con gai
+1236
+1310
+1
+Vo/Chong 712
+#
+#
+@
+Ly Quang Tuan 236
+Con gai
+1209
+1273
+0
+@
+Ly Xuan Tuan 713
+Con trai
+1240
+1290
+1
+Vo/Chong 714
+#
+@
+Le Thu Thanh 715
+Con trai
+1230
+0
+1
+Vo/Chong 716
+#
+@
+Nguyen Thi Phuong 717
+Con gai
+1243
+1326
+0
+#
+@
+Tran Huu Tuan 718
+Con trai
+1240
+1293
+1
+Vo/Chong 719
+#
+@
+Pham Xuan Trang 720
+Con trai
+1241
+1294
+0
+#
+#
+@
+Nguyen Ngoc Thanh 237
+Con gai
+1200
+1258
+0
+@
+Vu Ngoc Long 721
+Con trai
+1220
+1277
+0
+#
+#
+#
+@
+Vu Thi Phuong 89
+Con trai
+1180
+1250
+1
+Vo/Chong 90
+@
+Le Ngoc Long 238
+Con gai
+1208
+1274
+0
+@
+Ly Quang Kien 722
+Con trai
+1238
+0
+1
+Vo/Chong 723
+#
+@
+Pham Ngoc Hung 724
+Con trai
+1235
+1307
+0
+#
+@
+Tran Huu Anh 725
+Con trai
+1235
+1293
+1
+Vo/Chong 726
+#
+#
+@
+Le Thi Kien 239
+Con gai
+1206
+1256
+1
+Vo/Chong 240
+@
+Ngo Duc Long 727
+Con trai
+1236
+1303
+1
+Vo/Chong 728
+#
+@
+Hoang Ngoc Phuong 729
+Con trai
+1240
+1317
+1
+Vo/Chong 730
+#
+#
+@
+Nguyen Quang Long 241
+Con gai
+1208
+0
+0
+@
+Ly Huu Tuan 731
+Con gai
+1233
+0
+0
+#
+#
+#
+#
+@
+Bui Huu Trang 31
+Con trai
+1138
+1226
+1
+Vo/Chong 32
+@
+Le Thu Hoa 91
+Con trai
+1165
+0
+1
+Vo/Chong 92
+@
+Ngo Ngoc Kien 242
+Con trai
+1189
+1247
+1
+Vo/Chong 243
+@
+Nguyen Quang Tuan 732
+Con gai
+1214
+0
+0
+#
+#
+@
+Nguyen Dinh Anh 244
+Con trai
+1189
+1241
+1
+Vo/Chong 245
+@
+Pham Minh Thanh 733
+Con trai
+1220
+0
+1
+Vo/Chong 734
+#
+@
+Hoang Xuan Anh 735
+Con gai
+1213
+1281
+0
+#
+@
+Pham Thu Trang 736
+Con gai
+1218
+0
+1
+Vo/Chong 737
+#
+#
+#
+@
+Pham Thi Linh 93
+Con trai
+1159
+1219
+0
+@
+Hoang Minh Long 246
+Con trai
+1190
+0
+1
+Vo/Chong 247
+@
+Hoang Dinh Linh 738
+Con trai
+1221
+1295
+1
+Vo/Chong 739
+#
+@
+Nguyen Thi Phuong 740
+Con trai
+1223
+1304
+1
+Vo/Chong 741
+#
+@
+Ly Thi Thanh 742
+Con trai
+1220
+1276
+1
+Vo/Chong 743
+#
+#
+@
+Hoang Huu Hoa 248
+Con gai
+1186
+0
+1
+Vo/Chong 249
+@
+Pham Thu Thanh 744
+Con trai
+1214
+1281
+1
+Vo/Chong 745
+#
+@
+Bui Ngoc Thanh 746
+Con trai
+1216
+0
+0
+#
+@
+Hoang Quang Hoa 747
+Con gai
+1211
+1289
+1
+Vo/Chong 748
+#
+@
+Vu Minh Thanh 749
+Con gai
+1214
+0
+1
+Vo/Chong 750
+#
+@
+Pham Quang Long 751
+Con trai
+1206
+1256
+1
+Vo/Chong 752
+#
+#
+@
+Ngo Minh Trang 250
+Con gai
+1182
+1260
+0
+@
+Vu Minh Trang 753
+Con gai
+1210
+1291
+1
+Vo/Chong 754
+#
+@
+Vu Xuan Thanh 755
+Con gai
+1211
+1271
+1
+Vo/Chong 756
+#
+#
+@
+Vo Ngoc Hung 251
+Con gai
+1187
+1276
+0
+@
+Vu Duc Tuan 757
+Con trai
+1218
+1284
+0
+#
+@
+Bui Dinh Long 758
+Con gai
+1219
+1284
+0
+#
+#
+@
+Hoang Dinh Phuong 252
+Con trai
+1179
+1248
+1
+Vo/Chong 253
+@
+Le Quang Linh 759
+Con trai
+1203
+0
+1
+Vo/Chong 760
+#
+@
+Hoang Ngoc Kien 761
+Con trai
+1213
+1269
+0
+#
+@
+Ly Minh Tuan 762
+Con trai
+1207
+1271
+1
+Vo/Chong 763
+#
+@
+Vo Van Hoa 764
+Con gai
+1207
+1259
+0
+#
+#
+#
+@
+Tran Quang Phuong 94
+Con gai
+1165
+0
+1
+Vo/Chong 95
+@
+Bui Huu Hoa 254
+Con gai
+1186
+1262
+1
+Vo/Chong 255
+@
+Hoang Thu Thanh 765
+Con trai
+1206
+1273
+0
+#
+@
+Tran Ngoc Hung 766
+Con gai
+1210
+0
+1
+Vo/Chong 767
+#
+@
+Pham Quang Anh 768
+Con gai
+1212
+1287
+1
+Vo/Chong 769
+#
+@
+Pham Thi Anh 770
+Con gai
+1209
+1272
+1
+Vo/Chong 771
+#
+@
+Ly Van Kien 772
+Con trai
+1219
+0
+1
+Vo/Chong 773
+#
+#
+@
+Vo Huu Anh 256
+Con gai
+1185
+1261
+1
+Vo/Chong 257
+@
+Nguyen Huu Linh 774
+Con trai
+1205
+1285
+1
+Vo/Chong 775
+#
+@
+Vo Duc Anh 776
+Con gai
+1206
+1266
+0
+#
+@
+Nguyen Thi Anh 777
+Con gai
+1210
+1284
+0
+#
+@
+Bui Xuan Trang 778
+Con gai
+1215
+1269
+0
+#
+@
+Le Dinh Anh 779
+Con gai
+1207
+0
+1
+Vo/Chong 780
+#
+#
+@
+Vu Thu Phuong 258
+Con trai
+1199
+1270
+0
+@
+Nguyen Huu Hoa 781
+Con gai
+1219
+1279
+0
+#
+#
+@
+Pham Minh Trang 259
+Con gai
+1185
+0
+1
+Vo/Chong 260
+@
+Ly Dinh Long 782
+Con trai
+1213
+1301
+1
+Vo/Chong 783
+#
+#
+#
+@
+Le Van Thanh 96
+Con gai
+1171
+1236
+1
+Vo/Chong 97
+@
+Ly Huu Trang 261
+Con trai
+1198
+1280
+1
+Vo/Chong 262
+@
+Vo Ngoc Thanh 784
+Con trai
+1232
+1316
+1
+Vo/Chong 785
+#
+@
+Nguyen Quang Hung 786
+Con gai
+1225
+1282
+0
+#
+#
+#
+@
+Vo Thi Linh 98
+Con gai
+1158
+1247
+0
+@
+Le Duc Trang 263
+Con gai
+1178
+1235
+0
+@
+Le Thi Trang 787
+Con gai
+1206
+1275
+1
+Vo/Chong 788
+#
+#
+@
+Nguyen Xuan Anh 264
+Con trai
+1187
+1251
+1
+Vo/Chong 265
+@
+Hoang Van Hoa 789
+Con trai
+1207
+0
+0
+#
+@
+Pham Thu Hoa 790
+Con gai
+1213
+1274
+1
+Vo/Chong 791
+#
+@
+Tran Minh Kien 792
+Con gai
+1216
+0
+1
+Vo/Chong 793
+#
+@
+Pham Ngoc Anh 794
+Con trai
+1211
+0
+1
+Vo/Chong 795
+#
+@
+Nguyen Ngoc Linh 796
+Con trai
+1209
+1290
+1
+Vo/Chong 797
+#
+#
+@
+Tran Huu Thanh 266
+Con gai
+1184
+0
+0
+@
+Ngo Ngoc Hung 798
+Con gai
+1205
+1262
+0
+#
+@
+Hoang Thu Hung 799
+Con trai
+1209
+0
+0
+#
+@
+Ngo Thi Hoa 800
+Con gai
+1212
+1300
+1
+Vo/Chong 801
+#
+#
+@
+Nguyen Ngoc Anh 267
+Con trai
+1182
+1268
+0
+@
+Le Thu Thanh 802
+Con gai
+1210
+1291
+0
+#
+#
+@
+Hoang Xuan Long 268
+Con gai
+1180
+1266
+1
+Vo/Chong 269
+@
+Vu Van Phuong 803
+Con trai
+1210
+1271
+0
+#
+@
+Tran Duc Hung 804
+Con gai
+1213
+1283
+0
+#
+@
+Pham Minh Tuan 805
+Con trai
+1213
+1287
+0
+#
+@
+Pham Van Long 806
+Con gai
+1205
+0
+1
+Vo/Chong 807
+#
+@
+Bui Van Long 808
+Con trai
+1200
+0
+1
+Vo/Chong 809
+#
+#
+#
+#
+#
+@
+Le Dinh Tuan 14
+Con gai
+1118
+1175
+1
+Vo/Chong 15
+@
+Bui Thi Long 33
+Con gai
+1143
+1225
+1
+Vo/Chong 34
+@
+Ly Thi Anh 99
+Con trai
+1175
+0
+0
+@
+Nguyen Duc Anh 270
+Con gai
+1207
+1282
+0
+@
+Nguyen Ngoc Anh 810
+Con gai
+1230
+1297
+1
+Vo/Chong 811
+#
+@
+Vo Huu Linh 812
+Con gai
+1239
+1303
+0
+#
+@
+Vo Xuan Phuong 813
+Con gai
+1241
+1308
+1
+Vo/Chong 814
+#
+@
+Nguyen Huu Thanh 815
+Con trai
+1237
+1292
+1
+Vo/Chong 816
+#
+@
+Ngo Ngoc Hoa 817
+Con trai
+1233
+1285
+1
+Vo/Chong 818
+#
+#
+@
+Nguyen Thu Trang 271
+Con trai
+1199
+1288
+0
+@
+Le Xuan Tuan 819
+Con trai
+1226
+1295
+1
+Vo/Chong 820
+#
+@
+Vo Minh Trang 821
+Con trai
+1222
+1296
+1
+Vo/Chong 822
+#
+@
+Le Ngoc Long 823
+Con trai
+1233
+1304
+1
+Vo/Chong 824
+#
+#
+@
+Pham Thi Long 272
+Con trai
+1202
+1284
+0
+@
+Tran Dinh Hung 825
+Con trai
+1234
+1316
+0
+#
+#
+#
+@
+Pham Huu Trang 100
+Con trai
+1176
+0
+1
+Vo/Chong 101
+@
+Vo Ngoc Anh 273
+Con trai
+1198
+1253
+0
+@
+Hoang Huu Linh 826
+Con gai
+1221
+1292
+1
+Vo/Chong 827
+#
+@
+Hoang Dinh Thanh 828
+Con trai
+1232
+1312
+1
+Vo/Chong 829
+#
+@
+Nguyen Xuan Hung 830
+Con gai
+1230
+1300
+1
+Vo/Chong 831
+#
+@
+Vo Huu Hung 832
+Con trai
+1222
+1282
+1
+Vo/Chong 833
+#
+@
+Bui Xuan Phuong 834
+Con trai
+1226
+1302
+1
+Vo/Chong 835
+#
+#
+@
+Ly Thu Linh 274
+Con trai
+1201
+1253
+0
+@
+Nguyen Minh Hoa 836
+Con trai
+1222
+1300
+0
+#
+@
+Hoang Thu Kien 837
+Con trai
+1226
+0
+0
+#
+#
+#
+@
+Vu Thi Thanh 102
+Con trai
+1165
+1221
+1
+Vo/Chong 103
+@
+Pham Thu Hung 275
+Con gai
+1193
+1264
+0
+@
+Bui Van Hoa 838
+Con trai
+1213
+0
+0
+#
+@
+Ngo Quang Trang 839
+Con gai
+1227
+1283
+1
+Vo/Chong 840
+#
+@
+Pham Minh Tuan 841
+Con trai
+1221
+0
+1
+Vo/Chong 842
+#
+#
+@
+Pham Xuan Anh 276
+Con gai
+1192
+1247
+1
+Vo/Chong 277
+@
+Pham Duc Kien 843
+Con trai
+1215
+1279
+1
+Vo/Chong 844
+#
+@
+Ngo Ngoc Hoa 845
+Con trai
+1213
+1281
+1
+Vo/Chong 846
+#
+#
+@
+Hoang Dinh Hoa 278
+Con trai
+1191
+0
+1
+Vo/Chong 279
+@
+Tran Quang Thanh 847
+Con trai
+1212
+1280
+0
+#
+@
+Vu Ngoc Hoa 848
+Con trai
+1220
+0
+0
+#
+@
+Bui Van Long 849
+Con trai
+1220
+1294
+1
+Vo/Chong 850
+#
+#
+@
+Le Duc Hoa 280
+Con trai
+1187
+1253
+0
+@
+Bui Quang Anh 851
+Con gai
+1218
+1274
+1
+Vo/Chong 852
+#
+@
+Pham Huu Kien 853
+Con gai
+1210
+1289
+0
+#
+@
+Le Quang Phuong 854
+Con trai
+1218
+1294
+0
+#
+@
+Hoang Ngoc Trang 855
+Con gai
+1216
+0
+1
+Vo/Chong 856
+#
+@
+Nguyen Minh Thanh 857
+Con trai
+1221
+1293
+1
+Vo/Chong 858
+#
+#
+@
+Pham Huu Long 281
+Con trai
+1188
+0
+1
+Vo/Chong 282
+@
+Vo Minh Anh 859
+Con gai
+1217
+0
+0
+#
+@
+Pham Minh Phuong 860
+Con trai
+1215
+1291
+0
+#
+@
+Tran Van Tuan 861
+Con trai
+1220
+1305
+0
+#
+#
+#
+@
+Hoang Thu Hoa 104
+Con trai
+1167
+0
+1
+Vo/Chong 105
+@
+Ly Thi Anh 283
+Con trai
+1197
+1247
+1
+Vo/Chong 284
+@
+Nguyen Thi Kien 862
+Con gai
+1228
+1310
+0
+#
+@
+Ly Dinh Hung 863
+Con gai
+1220
+1299
+1
+Vo/Chong 864
+#
+@
+Le Dinh Long 865
+Con trai
+1220
+1277
+0
+#
+@
+Vu Thu Anh 866
+Con gai
+1227
+1309
+1
+Vo/Chong 867
+#
+#
+@
+Vo Huu Hung 285
+Con trai
+1199
+1258
+0
+@
+Ngo Dinh Hoa 868
+Con trai
+1229
+1283
+0
+#
+@
+Bui Quang Phuong 869
+Con trai
+1231
+1290
+0
+#
+#
+@
+Nguyen Quang Phuong 286
+Con gai
+1200
+1264
+1
+Vo/Chong 287
+@
+Vo Dinh Anh 870
+Con trai
+1226
+1315
+1
+Vo/Chong 871
+#
+@
+Hoang Ngoc Thanh 872
+Con trai
+1226
+1292
+1
+Vo/Chong 873
+#
+@
+Nguyen Van Anh 874
+Con gai
+1229
+1288
+1
+Vo/Chong 875
+#
+@
+Le Xuan Linh 876
+Con trai
+1226
+0
+0
+#
+#
+@
+Tran Quang Phuong 288
+Con trai
+1197
+0
+0
+@
+Vu Duc Anh 877
+Con trai
+1224
+1309
+0
+#
+@
+Vu Thu Hung 878
+Con gai
+1227
+1313
+0
+#
+#
+#
+#
+@
+Hoang Ngoc Hung 35
+Con trai
+1144
+1229
+1
+Vo/Chong 36
+@
+Bui Thu Tuan 106
+Con trai
+1170
+1226
+0
+@
+Vo Minh Hung 289
+Con trai
+1193
+1276
+0
+@
+Bui Thu Tuan 879
+Con trai
+1219
+1300
+0
+#
+@
+Hoang Huu Long 880
+Con gai
+1213
+1272
+0
+#
+#
+#
+@
+Hoang Huu Trang 107
+Con trai
+1178
+1229
+0
+@
+Hoang Van Hung 290
+Con trai
+1207
+0
+1
+Vo/Chong 291
+@
+Nguyen Dinh Anh 881
+Con gai
+1238
+0
+1
+Vo/Chong 882
+#
+@
+Bui Minh Phuong 883
+Con trai
+1236
+1317
+1
+Vo/Chong 884
+#
+#
+@
+Le Xuan Linh 292
+Con gai
+1203
+0
+1
+Vo/Chong 293
+@
+Bui Thu Long 885
+Con trai
+1236
+1319
+1
+Vo/Chong 886
+#
+@
+Vu Thi Linh 887
+Con gai
+1235
+1316
+0
+#
+@
+Bui Thi Phuong 888
+Con gai
+1226
+1280
+0
+#
+@
+Bui Ngoc Anh 889
+Con trai
+1233
+0
+0
+#
+#
+#
+#
+@
+Le Van Tuan 37
+Con gai
+1150
+1224
+0
+@
+Vo Minh Long 108
+Con gai
+1184
+1261
+0
+@
+Pham Dinh Long 294
+Con gai
+1211
+1266
+0
+@
+Bui Van Trang 890
+Con gai
+1245
+1307
+1
+Vo/Chong 891
+#
+#
+@
+Le Minh Tuan 295
+Con gai
+1218
+0
+1
+Vo/Chong 296
+@
+Hoang Thu Long 892
+Con trai
+1243
+1316
+1
+Vo/Chong 893
+#
+@
+Pham Xuan Hung 894
+Con gai
+1244
+1312
+1
+Vo/Chong 895
+#
+@
+Vu Quang Thanh 896
+Con trai
+1252
+1325
+0
+#
+@
+Tran Thi Anh 897
+Con gai
+1248
+0
+1
+Vo/Chong 898
+#
+#
+@
+Tran Huu Trang 297
+Con trai
+1215
+0
+1
+Vo/Chong 298
+@
+Le Thu Phuong 899
+Con trai
+1246
+0
+0
+#
+@
+Tran Duc Anh 900
+Con gai
+1247
+0
+1
+Vo/Chong 901
+#
+#
+@
+Le Ngoc Thanh 299
+Con trai
+1217
+1270
+1
+Vo/Chong 300
+@
+Nguyen Minh Kien 902
+Con gai
+1248
+1333
+0
+#
+@
+Vo Thi Trang 903
+Con trai
+1243
+1305
+1
+Vo/Chong 904
+#
+@
+Nguyen Xuan Thanh 905
+Con gai
+1244
+1303
+1
+Vo/Chong 906
+#
+#
+#
+@
+Hoang Van Kien 109
+Con gai
+1178
+1239
+1
+Vo/Chong 110
+@
+Nguyen Van Hung 301
+Con trai
+1211
+1291
+1
+Vo/Chong 302
+@
+Bui Minh Kien 907
+Con trai
+1238
+1300
+1
+Vo/Chong 908
+#
+@
+Le Duc Hung 909
+Con gai
+1243
+1307
+1
+Vo/Chong 910
+#
+@
+Hoang Van Thanh 911
+Con gai
+1240
+1325
+0
+#
+@
+Vo Van Trang 912
+Con gai
+1231
+1288
+1
+Vo/Chong 913
+#
+#
+@
+Ly Huu Trang 303
+Con trai
+1198
+1276
+1
+Vo/Chong 304
+@
+Tran Quang Tuan 914
+Con gai
+1222
+1311
+0
+#
+@
+Vo Duc Kien 915
+Con trai
+1225
+1295
+0
+#
+@
+Vo Van Hoa 916
+Con trai
+1222
+0
+0
+#
+@
+Le Minh Hung 917
+Con trai
+1223
+1279
+0
+#
+#
+@
+Ngo Dinh Trang 305
+Con trai
+1200
+1260
+1
+Vo/Chong 306
+@
+Le Thi Linh 918
+Con trai
+1223
+0
+1
+Vo/Chong 919
+#
+@
+Vu Thu Thanh 920
+Con trai
+1221
+1285
+1
+Vo/Chong 921
+#
+#
+@
+Bui Huu Anh 307
+Con trai
+1201
+1253
+0
+@
+Vu Thu Anh 922
+Con trai
+1224
+1304
+1
+Vo/Chong 923
+#
+#
+@
+Vu Duc Phuong 308
+Con trai
+1208
+0
+0
+@
+Pham Thi Tuan 924
+Con trai
+1241
+1321
+0
+#
+@
+Vo Thi Hung 925
+Con trai
+1232
+1284
+0
+#
+@
+Pham Ngoc Trang 926
+Con gai
+1229
+1287
+0
+#
+@
+Tran Xuan Anh 927
+Con gai
+1241
+1322
+1
+Vo/Chong 928
+#
+#
+#
+@
+Nguyen Xuan Hoa 111
+Con trai
+1178
+1261
+1
+Vo/Chong 112
+@
+Vu Duc Linh 309
+Con trai
+1210
+1299
+1
+Vo/Chong 310
+@
+Le Minh Long 929
+Con gai
+1238
+1327
+1
+Vo/Chong 930
+#
+@
+Vo Van Linh 931
+Con gai
+1238
+1315
+0
+#
+#
+@
+Bui Huu Anh 311
+Con trai
+1212
+1291
+1
+Vo/Chong 312
+@
+Ly Ngoc Trang 932
+Con trai
+1237
+1289
+0
+#
+@
+Nguyen Minh Long 933
+Con gai
+1235
+1297
+1
+Vo/Chong 934
+#
+@
+Tran Xuan Long 935
+Con trai
+1233
+1319
+0
+#
+#
+@
+Ngo Thu Anh 313
+Con trai
+1208
+1265
+1
+Vo/Chong 314
+@
+Tran Duc Kien 936
+Con gai
+1234
+1319
+1
+Vo/Chong 937
+#
+@
+Vo Duc Hoa 938
+Con trai
+1230
+1316
+1
+Vo/Chong 939
+#
+@
+Bui Duc Anh 940
+Con trai
+1228
+1315
+0
+#
+#
+@
+Ngo Thu Linh 315
+Con trai
+1208
+1263
+0
+@
+Le Quang Trang 941
+Con gai
+1239
+0
+1
+Vo/Chong 942
+#
+@
+Vo Thu Hoa 943
+Con gai
+1229
+1282
+1
+Vo/Chong 944
+#
+#
+#
+@
+Hoang Van Hung 113
+Con gai
+1179
+0
+0
+@
+Vo Thu Hoa 316
+Con gai
+1206
+0
+1
+Vo/Chong 317
+@
+Nguyen Minh Phuong 945
+Con trai
+1230
+1315
+0
+#
+#
+#
+@
+Vo Xuan Thanh 114
+Con gai
+1181
+1247
+1
+Vo/Chong 115
+@
+Le Quang Hung 318
+Con trai
+1209
+0
+1
+Vo/Chong 319
+@
+Vu Thi Tuan 946
+Con gai
+1234
+1286
+0
+#
+@
+Nguyen Duc Anh 947
+Con gai
+1231
+1294
+0
+#
+#
+@
+Tran Huu Phuong 320
+Con trai
+1214
+1287
+0
+@
+Pham Ngoc Thanh 948
+Con gai
+1238
+1316
+1
+Vo/Chong 949
+#
+@
+Bui Dinh Thanh 950
+Con trai
+1243
+1304
+0
+#
+@
+Pham Ngoc Tuan 951
+Con gai
+1241
+0
+1
+Vo/Chong 952
+#
+@
+Bui Huu Hoa 953
+Con trai
+1239
+1304
+0
+#
+#
+@
+Tran Xuan Long 321
+Con gai
+1201
+0
+1
+Vo/Chong 322
+@
+Ngo Minh Anh 954
+Con gai
+1223
+0
+0
+#
+@
+Ly Huu Tuan 955
+Con trai
+1229
+1301
+1
+Vo/Chong 956
+#
+#
+#
+#
+#
+@
+Nguyen Thu Hoa 16
+Con gai
+1112
+1193
+1
+Vo/Chong 17
+@
+Vu Duc Thanh 38
+Con trai
+1145
+1232
+0
+@
+Le Quang Phuong 116
+Con gai
+1166
+0
+0
+@
+Pham Xuan Long 323
+Con trai
+1200
+0
+1
+Vo/Chong 324
+@
+Ly Huu Hoa 957
+Con trai
+1230
+1313
+0
+#
+@
+Vo Ngoc Thanh 958
+Con trai
+1223
+0
+0
+#
+#
+@
+Ngo Dinh Phuong 325
+Con trai
+1195
+1269
+1
+Vo/Chong 326
+@
+Le Thu Hung 959
+Con gai
+1217
+1288
+0
+#
+@
+Vu Duc Anh 960
+Con gai
+1227
+1291
+0
+#
+#
+#
+@
+Ly Xuan Hung 117
+Con gai
+1174
+1239
+1
+Vo/Chong 118
+@
+Bui Ngoc Hung 327
+Con gai
+1207
+0
+0
+@
+Tran Dinh Anh 961
+Con gai
+1238
+1289
+1
+Vo/Chong 962
+#
+#
+#
+#
+@
+Pham Xuan Linh 39
+Con gai
+1132
+1221
+0
+@
+Pham Dinh Hoa 119
+Con trai
+1158
+1238
+0
+@
+Le Thu Kien 328
+Con gai
+1192
+1273
+0
+@
+Bui Dinh Long 963
+Con gai
+1223
+1276
+1
+Vo/Chong 964
+#
+@
+Vo Thu Trang 965
+Con trai
+1216
+1278
+0
+#
+#
+@
+Ngo Thi Hoa 329
+Con trai
+1184
+1241
+1
+Vo/Chong 330
+@
+Pham Minh Thanh 966
+Con gai
+1218
+1273
+0
+#
+@
+Tran Huu Linh 967
+Con gai
+1214
+1268
+0
+#
+@
+Bui Thi Phuong 968
+Con trai
+1218
+1301
+0
+#
+#
+@
+Ngo Duc Hung 331
+Con trai
+1185
+1260
+1
+Vo/Chong 332
+@
+Pham Minh Kien 969
+Con trai
+1217
+1302
+1
+Vo/Chong 970
+#
+#
+@
+Bui Xuan Hung 333
+Con trai
+1188
+0
+1
+Vo/Chong 334
+@
+Bui Thi Phuong 971
+Con gai
+1214
+0
+0
+#
+#
+#
+@
+Nguyen Thi Trang 120
+Con gai
+1162
+1223
+1
+Vo/Chong 121
+@
+Bui Van Thanh 335
+Con gai
+1187
+0
+1
+Vo/Chong 336
+@
+Ngo Ngoc Long 972
+Con gai
+1221
+1281
+0
+#
+@
+Pham Ngoc Thanh 973
+Con gai
+1207
+1289
+1
+Vo/Chong 974
+#
+#
+@
+Ly Minh Linh 337
+Con trai
+1187
+1251
+1
+Vo/Chong 338
+@
+Nguyen Minh Long 975
+Con gai
+1214
+1283
+0
+#
+@
+Vu Van Kien 976
+Con trai
+1221
+1310
+0
+#
+#
+#
+#
+@
+Vo Dinh Phuong 40
+Con trai
+1140
+1229
+1
+Vo/Chong 41
+@
+Ly Dinh Trang 122
+Con gai
+1165
+0
+1
+Vo/Chong 123
+@
+Hoang Ngoc Kien 339
+Con trai
+1191
+1255
+1
+Vo/Chong 340
+@
+Vo Huu Anh 977
+Con trai
+1214
+1265
+0
+#
+@
+Le Ngoc Hoa 978
+Con trai
+1224
+1284
+1
+Vo/Chong 979
+#
+#
+@
+Ngo Minh Phuong 341
+Con trai
+1186
+1274
+1
+Vo/Chong 342
+@
+Bui Huu Anh 980
+Con gai
+1220
+1284
+0
+#
+#
+@
+Ly Xuan Trang 343
+Con trai
+1196
+1281
+1
+Vo/Chong 344
+@
+Hoang Van Hoa 981
+Con trai
+1226
+1309
+0
+#
+@
+Tran Van Trang 982
+Con trai
+1216
+1280
+1
+Vo/Chong 983
+#
+#
+@
+Le Duc Hung 345
+Con trai
+1196
+0
+1
+Vo/Chong 346
+@
+Le Duc Hoa 984
+Con gai
+1216
+0
+0
+#
+@
+Hoang Duc Hung 985
+Con trai
+1228
+1279
+0
+#
+@
+Tran Thu Long 986
+Con trai
+1228
+1296
+0
+#
+#
+@
+Ly Huu Linh 347
+Con trai
+1192
+1254
+0
+@
+Hoang Thu Long 987
+Con trai
+1226
+0
+1
+Vo/Chong 988
+#
+@
+Bui Van Tuan 989
+Con trai
+1215
+1300
+1
+Vo/Chong 990
+#
+#
+#
+@
+Nguyen Thi Hoa 124
+Con trai
+1160
+1248
+0
+@
+Ly Xuan Hung 348
+Con gai
+1187
+1269
+1
+Vo/Chong 349
+@
+Le Quang Phuong 991
+Con gai
+1212
+1293
+0
+#
+@
+Vo Minh Long 992
+Con gai
+1217
+0
+0
+#
+@
+Bui Van Hung 993
+Con gai
+1217
+1292
+1
+Vo/Chong 994
+#
+@
+Tran Quang Linh 995
+Con gai
+1214
+0
+1
+Vo/Chong 996
+#
+#
+@
+Hoang Minh Hung 350
+Con trai
+1192
+1270
+1
+Vo/Chong 351
+@
+Vo Xuan Trang 997
+Con gai
+1218
+1305
+1
+Vo/Chong 998
+#
+@
+Le Dinh Tuan 999
+Con trai
+1218
+1295
+1
+Vo/Chong 1000
+#
+#
+@
+Bui Minh Long 352
+Con trai
+1181
+1241
+1
+Vo/Chong 353
+@
+Vo Minh Phuong 1001
+Con trai
+1215
+1286
+1
+Vo/Chong 1002
+#
+@
+Tran Duc Tuan 1003
+Con trai
+1206
+1260
+1
+Vo/Chong 1004
+#
+#
+@
+Le Ngoc Hung 354
+Con trai
+1185
+1252
+1
+Vo/Chong 355
+@
+Vo Van Thanh 1005
+Con trai
+1211
+0
+1
+Vo/Chong 1006
+#
+@
+Ly Van Linh 1007
+Con gai
+1206
+1289
+1
+Vo/Chong 1008
+#
+@
+Tran Duc Thanh 1009
+Con trai
+1216
+1288
+1
+Vo/Chong 1010
+#
+#
+@
+Nguyen Xuan Long 356
+Con gai
+1180
+1258
+0
+@
+Vo Huu Trang 1011
+Con trai
+1211
+1296
+0
+#
+@
+Ly Minh Anh 1012
+Con trai
+1214
+0
+0
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
